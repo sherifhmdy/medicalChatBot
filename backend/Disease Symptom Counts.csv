@@ -1,0 +1,2072 @@
+,Disease,Symptom,weight,Count
+52,upper respiratory infection,shortness of breath,135,46
+610,upper respiratory infection,fever,135,34
+578,upper respiratory infection,cough,135,22
+814,upper respiratory infection,dyspnea,135,22
+1033,upper respiratory infection,apyrexial,135,19
+781,upper respiratory infection,night sweat,135,14
+731,upper respiratory infection,wheezing,135,11
+659,upper respiratory infection,pleuritic pain,135,10
+720,upper respiratory infection,non-productive cough,135,10
+645,upper respiratory infection,productive cough,135,9
+1080,upper respiratory infection,hemodynamically stable,135,9
+633,upper respiratory infection,decreased translucency,135,7
+706,upper respiratory infection,rhonchus,135,7
+304,upper respiratory infection,labored breathing,135,5
+1743,upper respiratory infection,throat sore,135,5
+1750,upper respiratory infection,snuffle,135,5
+870,upper respiratory infection,symptom aggravating factors,135,4
+1800,upper respiratory infection,egophony,135,4
+1416,upper respiratory infection,emphysematous change,135,3
+1839,upper respiratory infection,polymyalgia,135,3
+1885,upper respiratory infection,indifferent mood,135,3
+1911,upper respiratory infection,frail,135,3
+1905,upper respiratory infection,stuffy nose,135,2
+1914,upper respiratory infection,cystic lesion,135,2
+1907,upper respiratory infection,barking cough,135,1
+1908,upper respiratory infection,rapid shallow breathing,135,1
+1909,upper respiratory infection,noisy respiration,135,1
+1910,upper respiratory infection,nasal discharge present,135,1
+1536,ulcer peptic,pain abdominal,143,27
+282,ulcer peptic,vomiting,143,24
+162,ulcer peptic,nausea,143,22
+18,ulcer peptic,pain chest,143,20
+1030,ulcer peptic,apyrexial,143,19
+848,ulcer peptic,hemiplegia,143,10
+1622,ulcer peptic,gurgle,143,5
+1384,ulcer peptic,nervousness,143,4
+1781,ulcer peptic,out of breath,143,3
+1818,ulcer peptic,paraparesis,143,3
+1838,ulcer peptic,polymyalgia,143,3
+1873,ulcer peptic,hunger,143,2
+54,tricuspid valve insufficiency,shortness of breath,101,46
+931,tricuspid valve insufficiency,pain,101,41
+617,tricuspid valve insufficiency,fever,101,34
+1543,tricuspid valve insufficiency,pain abdominal,101,27
+287,tricuspid valve insufficiency,vomiting,101,24
+166,tricuspid valve insufficiency,nausea,101,22
+896,tricuspid valve insufficiency,bradycardia,101,8
+1612,tricuspid valve insufficiency,cicatrisation,101,2
+1934,tricuspid valve insufficiency,mediastinal shift,101,2
+1983,tricuspid valve insufficiency,impaired cognition,101,2
+93,transient ischemic attack,asthenia,168,22
+122,transient ischemic attack,syncope,168,14
+508,transient ischemic attack,difficulty,168,10
+1298,transient ischemic attack,headache,168,10
+836,transient ischemic attack,facial paresis,168,9
+826,transient ischemic attack,dysarthria,168,6
+866,transient ischemic attack,numbness,168,6
+129,transient ischemic attack,vertigo,168,5
+832,transient ischemic attack,speech slurred,168,5
+1310,transient ischemic attack,lightheadedness,168,5
+1606,transient ischemic attack,neck stiffness,168,4
+1790,transient ischemic attack,room spinning,168,3
+1696,transient ischemic attack,extrapyramidal sign,168,2
+1788,transient ischemic attack,vision blurred,168,2
+1793,transient ischemic attack,rambling speech,168,1
+1794,transient ischemic attack,clumsiness,168,1
+263,tonic-clonic seizures,unresponsiveness,92,22
+1438,tonic-clonic seizures,decreased body weight,92,19
+478,tonic-clonic seizures,tremor,92,13
+1293,tonic-clonic seizures,sleepy,92,11
+1304,tonic-clonic seizures,headache,92,10
+1120,tonic-clonic seizures,tumor cell invasion,92,8
+1280,tonic-clonic seizures,muscle twitch,92,6
+1337,tonic-clonic seizures,drowsiness,92,4
+1827,tonic-clonic seizures,spasm,92,3
+1620,tonic-clonic seizures,myoclonus,92,2
+1777,tonic-clonic seizures,hirsutism,92,2
+1822,tonic-clonic seizures,moody,92,2
+1977,tonic-clonic seizures,absences finding,92,2
+2015,tonic-clonic seizures,lip smacking,92,2
+2022,tonic-clonic seizures,ambidexterity,92,2
+2018,tonic-clonic seizures,phonophobia,92,1
+2020,tonic-clonic seizures,rolling of eyes,92,1
+262,tonic-clonic epilepsy,unresponsiveness,92,22
+1437,tonic-clonic epilepsy,decreased body weight,92,19
+477,tonic-clonic epilepsy,tremor,92,13
+1292,tonic-clonic epilepsy,sleepy,92,11
+1303,tonic-clonic epilepsy,headache,92,10
+1119,tonic-clonic epilepsy,tumor cell invasion,92,8
+1279,tonic-clonic epilepsy,muscle twitch,92,6
+1336,tonic-clonic epilepsy,drowsiness,92,4
+1826,tonic-clonic epilepsy,spasm,92,3
+1619,tonic-clonic epilepsy,myoclonus,92,2
+1776,tonic-clonic epilepsy,hirsutism,92,2
+1821,tonic-clonic epilepsy,moody,92,2
+1976,tonic-clonic epilepsy,absences finding,92,2
+2014,tonic-clonic epilepsy,lip smacking,92,2
+2021,tonic-clonic epilepsy,ambidexterity,92,2
+2017,tonic-clonic epilepsy,phonophobia,92,1
+2019,tonic-clonic epilepsy,rolling of eyes,92,1
+67,thrombus,shortness of breath,67,46
+294,thrombus,vomiting,67,24
+1501,thrombus,sore to touch,67,16
+545,thrombus,hypokinesia,67,12
+966,thrombus,pruritus,67,10
+842,thrombus,facial paresis,67,9
+1084,thrombus,hemodynamically stable,67,9
+1590,thrombus,anorexia,67,8
+1814,thrombus,stool color yellow,67,3
+1889,thrombus,hypoalbuminemia,67,2
+2056,thrombus,hypertonicity,67,1
+612,thrombocytopaenia,fever,123,34
+1262,thrombocytopaenia,hypotension,123,16
+1130,thrombocytopaenia,haemorrhage,123,13
+765,thrombocytopaenia,tachypnea,123,11
+962,thrombocytopaenia,pruritus,123,10
+1147,thrombocytopaenia,fatigue,123,9
+1111,thrombocytopaenia,ecchymosis,123,5
+1928,thrombocytopaenia,monocytosis,123,1
+68,tachycardia sinus,shortness of breath,56,46
+1556,tachycardia sinus,pain abdominal,56,27
+299,tachycardia sinus,vomiting,56,24
+143,tachycardia sinus,sweating increased,56,11
+194,tachycardia sinus,pressure chest,56,6
+1161,tachycardia sinus,orthostasis,56,5
+1806,tachycardia sinus,scar tissue,56,5
+878,tachycardia sinus,t wave inverted,56,3
+2049,tachycardia sinus,cardiovascular event,56,3
+2064,tachycardia sinus,alcohol binge episode,56,1
+600,systemic infection,fever,311,34
+246,systemic infection,unresponsiveness,311,22
+683,systemic infection,chill,311,20
+1021,systemic infection,apyrexial,311,19
+226,systemic infection,rale,311,18
+1252,systemic infection,hypotension,311,16
+1124,systemic infection,haemorrhage,311,13
+746,systemic infection,distress respiratory,311,12
+760,systemic infection,tachypnea,311,11
+892,systemic infection,bradycardia,311,8
+1059,systemic infection,lethargy,311,7
+1468,systemic infection,spontaneous rupture of membranes,311,4
+1563,systemic infection,breech presentation,311,3
+1568,systemic infection,cyanosis,311,3
+615,suicide attempt,fever,114,34
+259,suicide attempt,unresponsiveness,114,22
+580,suicide attempt,cough,114,22
+455,suicide attempt,agitation,114,18
+345,suicide attempt,hallucinations auditory,114,14
+474,suicide attempt,tremor,114,13
+329,suicide attempt,suicidal,114,12
+395,suicide attempt,irritable mood,114,11
+440,suicide attempt,worry,114,11
+377,suicide attempt,sleeplessness,114,10
+410,suicide attempt,blackout,114,10
+511,suicide attempt,difficulty,114,10
+1148,suicide attempt,fatigue,114,9
+368,suicide attempt,weepiness,114,7
+1202,suicide attempt,unconscious state,114,7
+387,suicide attempt,motor retardation,114,5
+1333,suicide attempt,drowsiness,114,4
+1517,suicide attempt,sensory discomfort,114,4
+1678,suicide attempt,withdraw,114,4
+1390,suicide attempt,formication,114,3
+523,suicide attempt,unable to concentrate,114,2
+1946,suicide attempt,todd paralysis,114,1
+1947,suicide attempt,alcoholic withdrawal symptoms,114,1
+47,stenosis aortic valve,shortness of breath,158,46
+922,stenosis aortic valve,pain,158,41
+17,stenosis aortic valve,pain chest,158,20
+124,stenosis aortic valve,syncope,158,14
+551,stenosis aortic valve,dyspnea on exertion,158,10
+185,stenosis aortic valve,angina pectoris,158,9
+895,stenosis aortic valve,bradycardia,158,8
+888,stenosis aortic valve,chest discomfort,158,7
+1707,stenosis aortic valve,systolic murmur,158,3
+1852,stenosis aortic valve,sciatica,158,1
+1853,stenosis aortic valve,frothy sputum,158,1
+61,spasm bronchial,shortness of breath,76,46
+936,spasm bronchial,pain,76,41
+623,spasm bronchial,fever,76,34
+292,spasm bronchial,vomiting,76,24
+817,spasm bronchial,dyspnea,76,22
+1034,spasm bronchial,apyrexial,76,19
+768,spasm bronchial,tachypnea,76,11
+852,spasm bronchial,hemiplegia,76,10
+648,spasm bronchial,productive cough,76,9
+565,spasm bronchial,chest tightness,76,8
+708,spasm bronchial,rhonchus,76,7
+1746,spasm bronchial,throat sore,76,5
+1805,spasm bronchial,scar tissue,76,5
+1178,spasm bronchial,hypoxemia,76,4
+1518,spasm bronchial,sensory discomfort,76,4
+1771,spasm bronchial,fremitus,76,4
+2038,spasm bronchial,no known drug allergies,76,1
+50,sickle cell anemia,shortness of breath,140,46
+926,sickle cell anemia,pain,140,41
+1538,sickle cell anemia,pain abdominal,140,27
+19,sickle cell anemia,pain chest,140,20
+1032,sickle cell anemia,apyrexial,140,19
+1299,sickle cell anemia,headache,140,10
+1749,sickle cell anemia,snuffle,140,5
+710,sickle cell anemia,green sputum,140,4
+956,sickle cell anemia,hepatosplenomegaly,140,3
+1155,sickle cell anemia,pain back,140,2
+1900,sickle cell anemia,breakthrough pain,140,1
+599,septicemia,fever,311,34
+245,septicemia,unresponsiveness,311,22
+682,septicemia,chill,311,20
+1020,septicemia,apyrexial,311,19
+225,septicemia,rale,311,18
+1251,septicemia,hypotension,311,16
+1123,septicemia,haemorrhage,311,13
+745,septicemia,distress respiratory,311,12
+759,septicemia,tachypnea,311,11
+891,septicemia,bradycardia,311,8
+1058,septicemia,lethargy,311,7
+1467,septicemia,spontaneous rupture of membranes,311,4
+1562,septicemia,breech presentation,311,3
+1567,septicemia,cyanosis,311,3
+601,sepsis (invertebrate),fever,311,34
+247,sepsis (invertebrate),unresponsiveness,311,22
+684,sepsis (invertebrate),chill,311,20
+1022,sepsis (invertebrate),apyrexial,311,19
+227,sepsis (invertebrate),rale,311,18
+1253,sepsis (invertebrate),hypotension,311,16
+1125,sepsis (invertebrate),haemorrhage,311,13
+747,sepsis (invertebrate),distress respiratory,311,12
+761,sepsis (invertebrate),tachypnea,311,11
+893,sepsis (invertebrate),bradycardia,311,8
+1060,sepsis (invertebrate),lethargy,311,7
+1469,sepsis (invertebrate),spontaneous rupture of membranes,311,4
+1564,sepsis (invertebrate),breech presentation,311,3
+1569,sepsis (invertebrate),cyanosis,311,3
+454,schizophrenia,agitation,147,18
+344,schizophrenia,hallucinations auditory,147,14
+328,schizophrenia,suicidal,147,12
+1193,schizophrenia,patient non compliance,147,12
+394,schizophrenia,irritable mood,147,11
+439,schizophrenia,worry,147,11
+429,schizophrenia,hallucinations visual,147,9
+529,schizophrenia,homelessness,147,8
+494,schizophrenia,verbal auditory hallucinations,147,6
+1862,schizophrenia,hypersomnolence,147,1
+1863,schizophrenia,underweight,147,1
+1864,schizophrenia,underweight,147,1
+57,respiratory failure,shortness of breath,90,46
+264,respiratory failure,unresponsiveness,90,22
+815,respiratory failure,dyspnea,90,22
+1409,respiratory failure,lesion,90,17
+543,respiratory failure,hypokinesia,90,12
+767,respiratory failure,tachypnea,90,11
+851,respiratory failure,hemiplegia,90,10
+647,respiratory failure,productive cough,90,9
+1236,respiratory failure,hyperkalemia,90,9
+1094,respiratory failure,consciousness clear,90,7
+1482,respiratory failure,redness,90,7
+1675,respiratory failure,sinus rhythm,90,6
+1702,respiratory failure,snore,90,3
+1741,respiratory failure,general unsteadiness,90,2
+2025,respiratory failure,bruit,90,1
+937,pyelonephritis,pain,74,41
+624,pyelonephritis,fever,74,34
+625,pyelonephritis,fever,74,34
+1551,pyelonephritis,pain abdominal,74,27
+293,pyelonephritis,vomiting,74,24
+991,pyelonephritis,diarrhea,74,24
+171,pyelonephritis,nausea,74,22
+697,pyelonephritis,chill,74,20
+698,pyelonephritis,chill,74,20
+1951,pyelonephritis,myalgia,74,7
+1052,pyelonephritis,hematuria,74,6
+451,psychotic disorder,agitation,267,18
+341,psychotic disorder,hallucinations auditory,267,14
+471,psychotic disorder,tremor,267,13
+313,psychotic disorder,feeling suicidal,267,12
+325,psychotic disorder,suicidal,267,12
+1191,psychotic disorder,patient non compliance,267,12
+354,psychotic disorder,feeling hopeless,267,11
+391,psychotic disorder,irritable mood,267,11
+437,psychotic disorder,worry,267,11
+374,psychotic disorder,sleeplessness,267,10
+406,psychotic disorder,blackout,267,10
+426,psychotic disorder,hallucinations visual,267,9
+526,psychotic disorder,homelessness,267,8
+366,psychotic disorder,weepiness,267,7
+418,psychotic disorder,mood depressed,267,7
+1091,psychotic disorder,consciousness clear,267,7
+483,psychotic disorder,intoxication,267,6
+491,psychotic disorder,verbal auditory hallucinations,267,6
+518,psychotic disorder,nightmare,267,6
+385,psychotic disorder,motor retardation,267,5
+498,psychotic disorder,energy increased,267,5
+1637,psychotic disorder,catatonia,267,5
+1677,psychotic disorder,withdraw,267,4
+1683,psychotic disorder,terrify,267,3
+1681,psychotic disorder,behavior hyperactive,267,2
+907,primary malignant neoplasm,pain,354,41
+1419,primary malignant neoplasm,decreased body weight,354,19
+1361,primary malignant neoplasm,mass of body structure,354,17
+1394,primary malignant neoplasm,lesion,354,17
+1449,primary malignant neoplasm,thicken,354,14
+1239,primary malignant neoplasm,ascites,354,10
+1047,primary malignant neoplasm,hematuria,354,6
+1415,primary malignant neoplasm,emphysematous change,354,3
+1445,primary malignant neoplasm,hoarseness,354,3
+60,primary carcinoma of the liver cells,shortness of breath,82,46
+1550,primary carcinoma of the liver cells,pain abdominal,82,27
+584,primary carcinoma of the liver cells,cough,82,22
+1441,primary carcinoma of the liver cells,decreased body weight,82,19
+1377,primary carcinoma of the liver cells,mass of body structure,82,17
+1412,primary carcinoma of the liver cells,lesion,82,17
+1459,primary carcinoma of the liver cells,thicken,82,14
+1134,primary carcinoma of the liver cells,haemorrhage,82,13
+1121,primary carcinoma of the liver cells,tumor cell invasion,82,8
+1713,primary carcinoma of the liver cells,splenomegaly,82,5
+1730,primary carcinoma of the liver cells,cachexia,82,4
+1736,primary carcinoma of the liver cells,"hypothermia, natural",82,4
+1603,primary carcinoma of the liver cells,hematocrit decreased,82,3
+1760,primary carcinoma of the liver cells,paresis,82,3
+1767,primary carcinoma of the liver cells,stupor,82,3
+1791,primary carcinoma of the liver cells,room spinning,82,3
+1886,primary carcinoma of the liver cells,indifferent mood,82,3
+1851,primary carcinoma of the liver cells,hepatomegaly,82,2
+588,pneumothorax,cough,68,22
+821,pneumothorax,dyspnea,68,22
+462,pneumothorax,agitation,68,18
+1349,pneumothorax,prostatism,68,8
+740,pneumothorax,haemoptysis,68,5
+1182,pneumothorax,hypercapnia,68,3
+2047,pneumothorax,cardiovascular event,68,3
+2050,pneumothorax,soft tissue swelling,68,1
+928,pneumonia aspiration,pain,119,41
+613,pneumonia aspiration,fever,119,34
+1540,pneumonia aspiration,pain abdominal,119,27
+981,pneumonia aspiration,diarrhea,119,24
+258,pneumonia aspiration,unresponsiveness,119,22
+579,pneumonia aspiration,cough,119,22
+849,pneumonia aspiration,hemiplegia,119,10
+858,pneumonia aspiration,seizure,119,10
+274,pneumonia aspiration,mental status changes,119,9
+634,pneumonia aspiration,decreased translucency,119,7
+1167,pneumonia aspiration,transaminitis,119,7
+1579,pneumonia aspiration,clonus,119,5
+1623,pneumonia aspiration,gurgle,119,5
+1895,pneumonia aspiration,extreme exhaustion,119,5
+1766,pneumonia aspiration,stupor,119,3
+1933,pneumonia aspiration,mediastinal shift,119,2
+25,pneumonia,shortness of breath,1029,46
+591,pneumonia,fever,1029,34
+566,pneumonia,cough,1029,22
+675,pneumonia,chill,1029,20
+220,pneumonia,rale,1029,18
+773,pneumonia,night sweat,1029,14
+741,pneumonia,distress respiratory,1029,12
+724,pneumonia,wheezing,1029,11
+755,pneumonia,tachypnea,1029,11
+649,pneumonia,pleuritic pain,1029,10
+713,pneumonia,non-productive cough,1029,10
+638,pneumonia,productive cough,1029,9
+630,pneumonia,decreased translucency,1029,7
+701,pneumonia,rhonchus,1029,7
+662,pneumonia,yellow sputum,1029,6
+668,pneumonia,breath sounds decreased,1029,6
+735,pneumonia,haemoptysis,1029,5
+709,pneumonia,green sputum,1029,4
+770,pneumonia,malaise,1029,3
+461,personality disorder,agitation,84,18
+347,personality disorder,hallucinations auditory,84,14
+358,personality disorder,feeling hopeless,84,11
+398,personality disorder,irritable mood,84,11
+442,personality disorder,worry,84,11
+378,personality disorder,sleeplessness,84,10
+965,personality disorder,pruritus,84,10
+1245,personality disorder,ascites,84,10
+530,personality disorder,homelessness,84,8
+369,personality disorder,weepiness,84,7
+422,personality disorder,mood depressed,84,7
+520,personality disorder,nightmare,84,6
+1896,personality disorder,extreme exhaustion,84,5
+1270,personality disorder,enuresis,84,4
+1386,personality disorder,nervousness,84,4
+1937,personality disorder,nausea and vomiting,84,4
+1488,personality disorder,scratch marks,84,3
+1927,personality disorder,side pain,84,2
+2033,personality disorder,transsexual,84,1
+38,peripheral vascular disease,shortness of breath,268,46
+251,peripheral vascular disease,unresponsiveness,268,22
+805,peripheral vascular disease,dyspnea,268,22
+1491,peripheral vascular disease,sore to touch,268,16
+1286,peripheral vascular disease,sleepy,268,11
+182,peripheral vascular disease,angina pectoris,268,9
+1230,peripheral vascular disease,hyperkalemia,268,9
+1584,peripheral vascular disease,anorexia,268,8
+1671,peripheral vascular disease,sinus rhythm,268,6
+302,peripheral vascular disease,labored breathing,268,5
+1670,peripheral vascular disease,rest pain,268,1
+64,pericardial effusion body substance,shortness of breath,71,46
+939,pericardial effusion body substance,pain,71,41
+820,pericardial effusion body substance,dyspnea,71,22
+1267,pericardial effusion body substance,hypotension,71,16
+412,pericardial effusion body substance,blackout,71,10
+841,pericardial effusion body substance,facial paresis,71,9
+1083,pericardial effusion body substance,hemodynamically stable,71,9
+487,pericardial effusion body substance,intoxication,71,6
+1634,pericardial effusion body substance,oliguria,71,5
+1576,pericardial effusion body substance,cardiomegaly,71,3
+1175,pericardial effusion body substance,sputum purulent,71,2
+2044,pericardial effusion body substance,pericardial friction rub,71,1
+45,paroxysmaldyspnea,shortness of breath,165,46
+577,paroxysmaldyspnea,cough,165,22
+809,paroxysmaldyspnea,dyspnea,165,22
+15,paroxysmaldyspnea,pain chest,165,20
+232,paroxysmaldyspnea,rale,165,18
+213,paroxysmaldyspnea,orthopnea,165,14
+141,paroxysmaldyspnea,sweating increased,165,11
+550,paroxysmaldyspnea,dyspnea on exertion,165,10
+151,paroxysmaldyspnea,palpitation,165,9
+794,paroxysmaldyspnea,jugular venous distention,165,7
+1354,paroxysmaldyspnea,weight gain,165,4
+260,parkinson disease,unresponsiveness,108,22
+456,parkinson disease,agitation,108,18
+1371,parkinson disease,mass of body structure,108,17
+125,parkinson disease,syncope,108,14
+782,parkinson disease,night sweat,108,14
+475,parkinson disease,tremor,108,13
+441,parkinson disease,worry,108,11
+1290,parkinson disease,sleepy,108,11
+512,parkinson disease,difficulty,108,10
+850,parkinson disease,hemiplegia,108,10
+109,parkinson disease,fall,108,9
+837,parkinson disease,facial paresis,108,9
+1051,parkinson disease,hematuria,108,6
+1160,parkinson disease,orthostasis,108,5
+1334,parkinson disease,drowsiness,108,4
+1342,parkinson disease,stiffness,108,4
+1679,parkinson disease,withdraw,108,4
+1924,parkinson disease,achalasia,108,3
+453,paranoia,agitation,165,18
+343,paranoia,hallucinations auditory,165,14
+315,paranoia,feeling suicidal,165,12
+327,paranoia,suicidal,165,12
+393,paranoia,irritable mood,165,11
+409,paranoia,blackout,165,10
+428,paranoia,hallucinations visual,165,9
+528,paranoia,homelessness,165,8
+420,paranoia,mood depressed,165,7
+493,paranoia,verbal auditory hallucinations,165,6
+500,paranoia,energy increased,165,5
+1803,paranoia,scar tissue,165,5
+1684,paranoia,terrify,165,3
+1698,paranoia,loose associations,165,3
+1807,paranoia,neologism,165,3
+1810,paranoia,decompensation,165,3
+1611,paranoia,cicatrisation,165,2
+1136,pancytopenia,haemorrhage,61,13
+1150,pancytopenia,fatigue,61,9
+1815,pancytopenia,stool color yellow,61,3
+1870,pancytopenia,colic abdominal,61,3
+1996,pancytopenia,fatigability,61,3
+2063,pancytopenia,hypoproteinemia,61,1
+919,pancreatitis,pain,165,41
+1533,pancreatitis,pain abdominal,165,27
+280,pancreatitis,vomiting,165,24
+976,pancreatitis,diarrhea,165,24
+160,pancreatitis,nausea,165,22
+1027,pancreatitis,apyrexial,165,19
+1493,pancreatitis,sore to touch,165,16
+1813,pancreatitis,stool color yellow,165,3
+1816,pancreatitis,rigor - temperature-associated observation,165,1
+48,overload fluid,shortness of breath,144,46
+236,overload fluid,rale,144,18
+1258,overload fluid,hypotension,144,16
+215,overload fluid,orthopnea,144,14
+1015,overload fluid,swelling,144,13
+1289,overload fluid,sleepy,144,11
+1233,overload fluid,hyperkalemia,144,9
+796,overload fluid,jugular venous distention,144,7
+1662,overload fluid,distended abdomen,144,7
+1332,overload fluid,drowsiness,144,4
+1355,overload fluid,weight gain,144,4
+1871,overload fluid,hypokalemia,144,2
+917,osteoporosis,pain,169,41
+1026,osteoporosis,apyrexial,169,19
+121,osteoporosis,syncope,169,14
+107,osteoporosis,fall,169,9
+1344,osteoporosis,prostatism,169,8
+1661,osteoporosis,distended abdomen,169,7
+128,osteoporosis,vertigo,169,5
+1309,osteoporosis,lightheadedness,169,5
+1318,osteoporosis,numbness of hand,169,4
+1783,osteoporosis,urge incontinence,169,4
+1780,osteoporosis,out of breath,169,3
+1775,osteoporosis,hirsutism,169,2
+1778,osteoporosis,sniffle,169,1
+1779,osteoporosis,bradykinesia,169,1
+924,osteomyelitis,pain,142,41
+608,osteomyelitis,fever,142,34
+1031,osteomyelitis,apyrexial,142,19
+1496,osteomyelitis,sore to touch,142,16
+1016,osteomyelitis,swelling,142,13
+952,osteomyelitis,erythema,142,7
+1000,osteomyelitis,abscess bacterial,142,7
+1480,osteomyelitis,redness,142,7
+1086,osteomyelitis,difficulty passing urine,142,3
+1877,osteomyelitis,urinary hesitation,142,3
+1875,osteomyelitis,prostate tender,142,1
+1876,osteomyelitis,pain foot,142,1
+985,oralcandidiasis,diarrhea,99,24
+695,oralcandidiasis,chill,99,20
+1436,oralcandidiasis,decreased body weight,99,19
+784,oralcandidiasis,night sweat,99,14
+1196,oralcandidiasis,patient non compliance,99,12
+723,oralcandidiasis,non-productive cough,99,10
+1302,oralcandidiasis,headache,99,10
+1171,oralcandidiasis,transaminitis,99,7
+1218,oralcandidiasis,abdominal tenderness,99,7
+1745,oralcandidiasis,throat sore,99,5
+1726,oralcandidiasis,painful swallowing,99,4
+1721,oralcandidiasis,photophobia,99,3
+1958,oralcandidiasis,poor dentition,99,2
+1991,oralcandidiasis,adverse effect,99,1
+1993,oralcandidiasis,abdominal bloating,99,1
+586,obesity morbid,cough,76,22
+818,obesity morbid,dyspnea,76,22
+734,obesity morbid,wheezing,76,11
+187,obesity morbid,angina pectoris,76,9
+305,obesity morbid,labored breathing,76,5
+1179,obesity morbid,hypoxemia,76,4
+1737,obesity morbid,"hypothermia, natural",76,4
+1604,obesity morbid,hematocrit decreased,76,3
+1643,obesity morbid,unhappy,76,3
+1782,obesity morbid,out of breath,76,3
+1054,obesity morbid,renal angle tenderness,76,2
+2041,obesity morbid,sedentary,76,1
+40,obesity,shortness of breath,228,46
+913,obesity,pain,228,41
+13,obesity,pain chest,228,20
+1142,obesity,fatigue,228,9
+419,obesity,mood depressed,228,7
+1110,obesity,ecchymosis,228,5
+1639,obesity,catatonia,228,5
+1381,obesity,has religious belief,228,4
+1357,obesity,tired,228,3
+1701,obesity,snore,228,3
+1706,obesity,systolic murmur,228,3
+1704,obesity,r wave feature,228,1
+1705,obesity,overweight,228,1
+589,neutropenia,cough,68,22
+699,neutropenia,chill,68,20
+1036,neutropenia,apyrexial,68,19
+1413,neutropenia,lesion,68,17
+790,neutropenia,night sweat,68,14
+753,neutropenia,distress respiratory,68,12
+1172,neutropenia,transaminitis,68,7
+1635,neutropenia,oliguria,68,5
+1714,neutropenia,splenomegaly,68,5
+1751,neutropenia,snuffle,68,5
+1106,neutropenia,monoclonal,68,3
+1733,neutropenia,hypocalcemia result,68,2
+2051,neutropenia,rhd positive,68,1
+932,neuropathy,pain,99,41
+99,neuropathy,asthenia,99,22
+867,neuropathy,numbness,99,6
+1936,neuropathy,nausea and vomiting,99,4
+1942,neuropathy,tenesmus,99,3
+1994,neuropathy,fatigability,99,3
+1893,neuropathy,slowing of urinary stream,99,2
+1940,neuropathy,awakening early,99,2
+1968,neuropathy,hydropneumothorax,99,2
+1970,neuropathy,superimposition,99,2
+933,neoplasm metastasis,pain,94,41
+1544,neoplasm metastasis,pain abdominal,94,27
+1373,neoplasm metastasis,mass of body structure,94,17
+1457,neoplasm metastasis,thicken,94,14
+1118,neoplasm metastasis,tumor cell invasion,94,8
+1315,neoplasm metastasis,food intolerance,94,5
+1595,neoplasm metastasis,metastatic lesion,94,5
+1654,neoplasm metastasis,lung nodule,94,4
+1739,neoplasm metastasis,atypia,94,2
+2005,neoplasm metastasis,pain neck,94,1
+911,neoplasm,pain,297,41
+1530,neoplasm,pain abdominal,297,27
+9,neoplasm,pain chest,297,20
+1423,neoplasm,decreased body weight,297,19
+1362,neoplasm,mass of body structure,297,17
+1395,neoplasm,lesion,297,17
+777,neoplasm,night sweat,297,14
+1450,neoplasm,thicken,297,14
+1296,neoplasm,headache,297,10
+1113,neoplasm,tumor cell invasion,297,8
+1048,neoplasm,hematuria,297,6
+1313,neoplasm,food intolerance,297,5
+1593,neoplasm,metastatic lesion,297,5
+1512,neoplasm,satiety early,297,3
+1599,neoplasm,hemianopsia homonymous,297,2
+1592,neoplasm,anosmia,297,1
+28,myocardial infarction,shortness of breath,759,46
+799,myocardial infarction,dyspnea,759,22
+4,myocardial infarction,pain chest,759,20
+222,myocardial infarction,rale,759,18
+112,myocardial infarction,syncope,759,14
+208,myocardial infarction,orthopnea,759,14
+535,myocardial infarction,hypokinesia,759,12
+136,myocardial infarction,sweating increased,759,11
+145,myocardial infarction,palpitation,759,9
+181,myocardial infarction,angina pectoris,759,9
+560,myocardial infarction,chest tightness,759,8
+889,myocardial infarction,bradycardia,759,8
+882,myocardial infarction,chest discomfort,759,7
+191,myocardial infarction,pressure chest,759,6
+876,myocardial infarction,t wave inverted,759,3
+879,myocardial infarction,presence of q wave,759,3
+874,myocardial infarction,st segment depression,759,2
+873,myocardial infarction,st segment elevation,759,1
+42,mitral valve insufficiency,shortness of breath,186,46
+915,mitral valve insufficiency,pain,186,41
+279,mitral valve insufficiency,vomiting,186,24
+807,mitral valve insufficiency,dyspnea,186,22
+119,mitral valve insufficiency,syncope,186,14
+1452,mitral valve insufficiency,thicken,186,14
+539,mitral valve insufficiency,hypokinesia,186,12
+549,mitral valve insufficiency,dyspnea on exertion,186,10
+150,mitral valve insufficiency,palpitation,186,9
+1143,mitral valve insufficiency,fatigue,186,9
+886,mitral valve insufficiency,chest discomfort,186,7
+1574,mitral valve insufficiency,cardiomegaly,186,3
+1710,mitral valve insufficiency,asymptomatic,186,2
+628,migraine disorders,fever,61,34
+296,migraine disorders,vomiting,61,24
+174,migraine disorders,nausea,61,22
+77,migraine disorders,dizziness,61,8
+868,migraine disorders,numbness,61,6
+1715,migraine disorders,splenomegaly,61,5
+2023,migraine disorders,ambidexterity,61,2
+934,melanoma,pain,87,41
+621,melanoma,fever,87,34
+291,melanoma,vomiting,87,24
+989,melanoma,diarrhea,87,24
+1375,melanoma,mass of body structure,87,17
+964,melanoma,pruritus,87,10
+1651,melanoma,gravida 0,87,4
+1819,melanoma,paraparesis,87,3
+1856,melanoma,mass in breast,87,2
+346,manic disorder,hallucinations auditory,85,14
+317,manic disorder,feeling suicidal,85,12
+318,manic disorder,feeling suicidal,85,12
+330,manic disorder,suicidal,85,12
+331,manic disorder,suicidal,85,12
+357,manic disorder,feeling hopeless,85,11
+513,manic disorder,difficulty,85,10
+430,manic disorder,hallucinations visual,85,9
+495,manic disorder,verbal auditory hallucinations,85,6
+501,manic disorder,energy increased,85,5
+1811,manic disorder,decompensation,85,3
+2030,manic disorder,verbally abusive behavior,85,3
+1692,manic disorder,hypersomnia,85,2
+2028,manic disorder,blanch,85,1
+2029,manic disorder,elation,85,1
+1548,malignantneoplasms,pain abdominal,90,27
+696,malignantneoplasms,chill,90,20
+1374,malignantneoplasms,mass of body structure,90,17
+1408,malignantneoplasms,lesion,90,17
+1264,malignantneoplasms,hypotension,90,16
+785,malignantneoplasms,night sweat,90,14
+1458,malignantneoplasms,thicken,90,14
+752,malignantneoplasms,distress respiratory,90,12
+635,malignantneoplasms,decreased translucency,90,7
+1316,malignantneoplasms,food intolerance,90,5
+1561,malignantneoplasms,heartburn,90,4
+1866,malignantneoplasms,dullness,90,2
+2024,malignantneoplasms,gravida 10,90,1
+1545,malignant tumor of colon,pain abdominal,94,27
+288,malignant tumor of colon,vomiting,94,24
+986,malignant tumor of colon,diarrhea,94,24
+167,malignant tumor of colon,nausea,94,22
+1406,malignant tumor of colon,lesion,94,17
+1524,malignant tumor of colon,constipation,94,9
+897,malignant tumor of colon,bradycardia,94,8
+1347,malignant tumor of colon,prostatism,94,8
+1324,malignant tumor of colon,general discomfort,94,5
+202,malignant tumor of colon,polydypsia,94,4
+1878,malignant tumor of colon,urinary hesitation,94,3
+1903,malignant tumor of colon,systolic ejection murmur,94,2
+2006,malignant tumor of colon,dizzy spells,94,1
+2008,malignant tumor of colon,shooting pain,94,1
+2010,malignant tumor of colon,hyperemesis,94,1
+906,malignant neoplasms,pain,354,41
+1418,malignant neoplasms,decreased body weight,354,19
+1360,malignant neoplasms,mass of body structure,354,17
+1393,malignant neoplasms,lesion,354,17
+1448,malignant neoplasms,thicken,354,14
+1238,malignant neoplasms,ascites,354,10
+1046,malignant neoplasms,hematuria,354,6
+1414,malignant neoplasms,emphysematous change,354,3
+1444,malignant neoplasms,hoarseness,354,3
+977,malignant neoplasm of prostate,diarrhea,163,24
+96,malignant neoplasm of prostate,asthenia,163,22
+1427,malignant neoplasm of prostate,decreased body weight,163,19
+233,malignant neoplasm of prostate,rale,163,18
+1366,malignant neoplasm of prostate,mass of body structure,163,17
+656,malignant neoplasm of prostate,pleuritic pain,163,10
+1078,malignant neoplasm of prostate,hemodynamically stable,163,9
+1099,malignant neoplasm of prostate,guaiac positive,163,8
+1116,malignant neoplasm of prostate,tumor cell invasion,163,8
+704,malignant neoplasm of prostate,rhonchus,163,7
+670,malignant neoplasm of prostate,breath sounds decreased,163,6
+1049,malignant neoplasm of prostate,hematuria,163,6
+130,malignant neoplasm of prostate,vertigo,163,5
+1158,malignant neoplasm of prostate,orthostasis,163,5
+1041,malignant neoplasm of prostate,dysuria,163,4
+1785,malignant neoplasm of prostate,urge incontinence,163,4
+1758,malignant neoplasm of prostate,paresis,163,3
+1836,malignant neoplasm of prostate,polymyalgia,163,3
+1842,malignant neoplasm of prostate,qt interval prolonged,163,3
+1846,malignant neoplasm of prostate,ataxia,163,3
+1600,malignant neoplasm of prostate,hemianopsia homonymous,163,2
+1834,malignant neoplasm of prostate,dysesthesia,163,1
+1840,malignant neoplasm of prostate,passed stones,163,1
+58,malignant neoplasm of lung,shortness of breath,86,46
+100,malignant neoplasm of lung,asthenia,86,22
+582,malignant neoplasm of lung,cough,86,22
+237,malignant neoplasm of lung,rale,86,18
+459,malignant neoplasm of lung,agitation,86,18
+1410,malignant neoplasm of lung,lesion,86,17
+786,malignant neoplasm of lung,night sweat,86,14
+396,malignant neoplasm of lung,irritable mood,86,11
+636,malignant neoplasm of lung,decreased translucency,86,7
+738,malignant neoplasm of lung,haemoptysis,86,5
+1596,malignant neoplasm of lung,metastatic lesion,86,5
+1625,malignant neoplasm of lung,gurgle,86,5
+1655,malignant neoplasm of lung,lung nodule,86,4
+1980,malignant neoplasm of lung,debilitation,86,3
+1666,malignant neoplasm of lung,ache,86,2
+811,malignant neoplasm of breast,dyspnea,152,22
+1369,malignant neoplasm of breast,mass of body structure,152,17
+1401,malignant neoplasm of breast,lesion,152,17
+1013,malignant neoplasm of breast,swelling,152,13
+509,malignant neoplasm of breast,difficulty,152,10
+950,malignant neoplasm of breast,erythema,152,7
+1507,malignant neoplasm of breast,burning sensation,152,4
+1645,malignant neoplasm of breast,paresthesia,152,4
+1388,malignant neoplasm of breast,formication,152,3
+1854,malignant neoplasm of breast,mass in breast,152,2
+1859,malignant neoplasm of breast,estrogen use,152,2
+1857,malignant neoplasm of breast,retropulsion,152,1
+616,lymphoma,fever,105,34
+1433,lymphoma,decreased body weight,105,19
+1404,lymphoma,lesion,105,17
+1149,lymphoma,fatigue,105,9
+1169,lymphoma,transaminitis,105,7
+737,lymphoma,haemoptysis,105,5
+201,lymphoma,polydypsia,105,4
+1087,lymphoma,difficulty passing urine,105,3
+1358,lymphoma,tired,105,3
+1849,lymphoma,ataxia,105,3
+1967,lymphoma,hydropneumothorax,105,2
+1969,lymphoma,superimposition,105,2
+1965,lymphoma,welt,105,1
+1966,lymphoma,tinnitus,105,1
+921,lymphatic diseases,pain,160,41
+606,lymphatic diseases,fever,160,34
+689,lymphatic diseases,chill,160,20
+1429,lymphatic diseases,decreased body weight,160,19
+1368,lymphatic diseases,mass of body structure,160,17
+1400,lymphatic diseases,lesion,160,17
+780,lymphatic diseases,night sweat,160,14
+1012,lymphatic diseases,swelling,160,13
+719,lymphatic diseases,non-productive cough,160,10
+1144,lymphatic diseases,fatigue,160,9
+1479,lymphatic diseases,redness,160,7
+1712,lymphatic diseases,splenomegaly,160,5
+1770,lymphatic diseases,fremitus,160,4
+1799,lymphatic diseases,egophony,160,4
+1485,lymphatic diseases,hyperacusis,160,2
+1850,lymphatic diseases,hepatomegaly,160,2
+975,kidney failure acute,diarrhea,186,24
+90,kidney failure acute,asthenia,186,22
+252,kidney failure acute,unresponsiveness,186,22
+1256,kidney failure acute,hypotension,186,16
+1126,kidney failure acute,haemorrhage,186,13
+1076,kidney failure acute,hemodynamically stable,186,9
+1231,kidney failure acute,hyperkalemia,186,9
+1631,kidney failure acute,oliguria,186,5
+1734,kidney failure acute,"hypothermia, natural",186,4
+1732,kidney failure acute,hypocalcemia result,186,2
+55,kidney disease,shortness of breath,96,46
+619,kidney disease,fever,96,34
+20,kidney disease,pain chest,96,20
+1235,kidney disease,hyperkalemia,96,9
+1650,kidney disease,gravida 0,96,4
+1717,kidney disease,bleeding of vagina,96,2
+1547,ketoacidosis diabetic,pain abdominal,93,27
+290,ketoacidosis diabetic,vomiting,93,24
+988,ketoacidosis diabetic,diarrhea,93,24
+169,ketoacidosis diabetic,nausea,93,22
+860,ketoacidosis diabetic,seizure,93,10
+1219,ketoacidosis diabetic,abdominal tenderness,93,7
+1624,ketoacidosis diabetic,gurgle,93,5
+198,ketoacidosis diabetic,polyuria,93,4
+1385,ketoacidosis diabetic,nervousness,93,4
+1617,ketoacidosis diabetic,aura,93,4
+1880,ketoacidosis diabetic,urinary hesitation,93,3
+1789,ketoacidosis diabetic,vision blurred,93,2
+1972,ketoacidosis diabetic,feeling strange,93,2
+2012,ketoacidosis diabetic,milky,93,1
+2013,ketoacidosis diabetic,regurgitates after swallowing,93,1
+41,ischemia,shortness of breath,226,46
+806,ischemia,dyspnea,226,22
+14,ischemia,pain chest,226,20
+231,ischemia,rale,226,18
+140,ischemia,sweating increased,226,11
+1287,ischemia,sleepy,226,11
+184,ischemia,angina pectoris,226,9
+894,ischemia,bradycardia,226,8
+1585,ischemia,anorexia,226,8
+885,ischemia,chest discomfort,226,7
+193,ischemia,pressure chest,226,6
+1672,ischemia,sinus rhythm,226,6
+1330,ischemia,drowsiness,226,4
+1709,ischemia,asymptomatic,226,2
+32,insufficiency renal,shortness of breath,445,46
+968,insufficiency renal,diarrhea,445,24
+83,insufficiency renal,asthenia,445,22
+802,insufficiency renal,dyspnea,445,22
+1019,insufficiency renal,apyrexial,445,19
+224,insufficiency renal,rale,445,18
+1249,insufficiency renal,hypotension,445,16
+209,insufficiency renal,orthopnea,445,14
+1006,insufficiency renal,swelling,445,13
+536,insufficiency renal,hypokinesia,445,12
+504,insufficiency renal,difficulty,445,10
+1237,insufficiency renal,ascites,445,10
+268,insufficiency renal,mental status changes,445,9
+1228,insufficiency renal,hyperkalemia,445,9
+1096,insufficiency renal,guaiac positive,445,8
+669,insufficiency renal,breath sounds decreased,445,6
+66,influenza,shortness of breath,68,46
+627,influenza,fever,68,34
+700,influenza,chill,68,20
+754,influenza,distress respiratory,68,12
+413,influenza,blackout,68,10
+661,influenza,pleuritic pain,68,10
+1305,influenza,headache,68,10
+1747,influenza,throat sore,68,5
+1752,influenza,snuffle,68,5
+1897,influenza,extreme exhaustion,68,5
+712,influenza,green sputum,68,4
+872,influenza,symptom aggravating factors,68,4
+1044,influenza,dysuria,68,4
+772,influenza,malaise,68,3
+1703,influenza,snore,68,3
+1982,influenza,debilitation,68,3
+1974,influenza,uncoordination,68,2
+2016,influenza,lip smacking,68,2
+2054,influenza,nasal flaring,68,1
+2055,influenza,sneeze,68,1
+593,infection urinary tract,fever,597,34
+81,infection urinary tract,asthenia,597,22
+743,infection urinary tract,distress respiratory,597,12
+1064,infection urinary tract,hyponatremia,597,10
+267,infection urinary tract,mental status changes,597,9
+1074,infection urinary tract,hemodynamically stable,597,9
+1055,infection urinary tract,lethargy,597,7
+1088,infection urinary tract,consciousness clear,597,7
+1045,infection urinary tract,hematuria,597,6
+1040,infection urinary tract,dysuria,597,4
+1085,infection urinary tract,difficulty passing urine,597,3
+1053,infection urinary tract,renal angle tenderness,597,2
+901,infection,pain,630,41
+592,infection,fever,630,34
+967,infection,diarrhea,630,24
+569,infection,cough,630,22
+676,infection,chill,630,20
+1018,infection,apyrexial,630,19
+1004,infection,swelling,630,13
+957,infection,pruritus,630,10
+631,infection,decreased translucency,630,7
+946,infection,erythema,630,7
+997,infection,abscess bacterial,630,7
+954,infection,hepatosplenomegaly,630,3
+94,incontinence,asthenia,165,22
+254,incontinence,unresponsiveness,165,22
+123,incontinence,syncope,165,14
+473,incontinence,tremor,165,13
+857,incontinence,seizure,165,10
+108,incontinence,fall,165,9
+1200,incontinence,unconscious state,165,7
+1340,incontinence,stiffness,165,4
+1615,incontinence,aura,165,4
+1784,incontinence,urge incontinence,165,4
+1642,incontinence,unhappy,165,3
+1817,incontinence,paraparesis,165,3
+1824,incontinence,spasm,165,3
+1820,incontinence,moody,165,2
+1823,incontinence,fear of falling,165,1
+1557,ileus,pain abdominal,56,27
+996,ileus,diarrhea,56,24
+177,ileus,nausea,56,22
+1039,ileus,apyrexial,56,19
+1378,ileus,mass of body structure,56,17
+1505,ileus,sore to touch,56,16
+1463,ileus,thicken,56,14
+1528,ileus,constipation,56,9
+1003,ileus,abscess bacterial,56,7
+1220,ileus,abdominal tenderness,56,7
+1652,ileus,gravida 0,56,4
+2058,ileus,flatulence,56,3
+2065,ileus,abdomen acute,56,1
+2066,ileus,air fluid level,56,1
+2067,ileus,catching breath,56,1
+33,hypothyroidism,shortness of breath,398,46
+276,hypothyroidism,vomiting,398,24
+86,hypothyroidism,asthenia,398,22
+449,hypothyroidism,agitation,398,18
+1359,hypothyroidism,mass of body structure,398,17
+1250,hypothyroidism,hypotension,398,16
+115,hypothyroidism,syncope,398,14
+1284,hypothyroidism,sleepy,398,11
+505,hypothyroidism,difficulty,398,10
+1067,hypothyroidism,hyponatremia,398,10
+105,hypothyroidism,fall,398,9
+270,hypothyroidism,mental status changes,398,9
+1140,hypothyroidism,fatigue,398,9
+1343,hypothyroidism,prostatism,398,8
+1223,hypothyroidism,unsteady gait,398,7
+516,hypothyroidism,nightmare,398,6
+865,hypothyroidism,numbness,398,6
+384,hypothyroidism,motor retardation,398,5
+830,hypothyroidism,speech slurred,398,5
+196,hypothyroidism,polyuria,398,4
+1328,hypothyroidism,drowsiness,398,4
+1352,hypothyroidism,weight gain,398,4
+1356,hypothyroidism,tired,398,3
+257,hypoglycemia,unresponsiveness,122,22
+1263,hypoglycemia,hypotension,122,16
+751,hypoglycemia,distress respiratory,122,12
+1201,hypoglycemia,unconscious state,122,7
+197,hypoglycemia,polyuria,122,4
+1735,hypoglycemia,"hypothermia, natural",122,4
+1844,hypoglycemia,qt interval prolonged,122,3
+1931,hypoglycemia,clammy skin,122,2
+1929,hypoglycemia,incoherent,122,1
+1930,hypoglycemia,claudication,122,1
+21,hypertensive disease,shortness of breath,3363,46
+78,hypertensive disease,asthenia,3363,22
+154,hypertensive disease,nausea,3363,22
+0,hypertensive disease,pain chest,3363,20
+111,hypertensive disease,syncope,3363,14
+132,hypertensive disease,sweating increased,3363,11
+102,hypertensive disease,fall,3363,9
+144,hypertensive disease,palpitation,3363,9
+178,hypertensive disease,angina pectoris,3363,9
+70,hypertensive disease,dizziness,3363,8
+188,hypertensive disease,pressure chest,3363,6
+126,hypertensive disease,vertigo,3363,5
+53,hypertension pulmonary,shortness of breath,128,46
+1261,hypertension pulmonary,hypotension,128,16
+553,hypertension pulmonary,dyspnea on exertion,128,10
+672,hypertension pulmonary,breath sounds decreased,128,6
+1607,hypertension pulmonary,neck stiffness,128,4
+1570,hypertension pulmonary,cyanosis,128,3
+1919,hypertension pulmonary,heavy legs,128,2
+39,hyperlipidemia,shortness of breath,247,46
+12,hyperlipidemia,pain chest,247,20
+538,hyperlipidemia,hypokinesia,247,12
+139,hyperlipidemia,sweating increased,247,11
+845,hyperlipidemia,hemiplegia,247,10
+149,hyperlipidemia,palpitation,247,9
+183,hyperlipidemia,angina pectoris,247,9
+74,hyperlipidemia,dizziness,247,8
+884,hyperlipidemia,chest discomfort,247,7
+881,hyperlipidemia,presence of q wave,247,3
+1687,hyperlipidemia,giddy mood,247,2
+1686,hyperlipidemia,photopsia,247,1
+1434,hyperglycemia,decreased body weight,104,19
+1499,hyperglycemia,sore to touch,104,16
+732,hyperglycemia,wheezing,104,11
+859,hyperglycemia,seizure,104,10
+963,hyperglycemia,pruritus,104,10
+1244,hyperglycemia,ascites,104,10
+421,hyperglycemia,mood depressed,104,7
+1861,hyperglycemia,estrogen use,104,2
+1891,hyperglycemia,pustule,104,2
+1971,hyperglycemia,feeling strange,104,2
+29,hypercholesterolemia,shortness of breath,685,46
+900,hypercholesterolemia,pain,685,41
+800,hypercholesterolemia,dyspnea,685,22
+5,hypercholesterolemia,pain chest,685,20
+113,hypercholesterolemia,syncope,685,14
+137,hypercholesterolemia,sweating increased,685,11
+435,hypercholesterolemia,worry,685,11
+890,hypercholesterolemia,bradycardia,685,8
+883,hypercholesterolemia,chest discomfort,685,7
+192,hypercholesterolemia,pressure chest,685,6
+864,hypercholesterolemia,numbness,685,6
+877,hypercholesterolemia,t wave inverted,685,3
+875,hypercholesterolemia,st segment depression,685,2
+944,hypercholesterolemia,nonsmoker,685,2
+590,hyperbilirubinemia,cough,68,22
+769,hyperbilirubinemia,tachypnea,68,11
+899,hyperbilirubinemia,bradycardia,68,8
+1953,hyperbilirubinemia,myalgia,68,7
+1565,hyperbilirubinemia,breech presentation,68,3
+1571,hyperbilirubinemia,cyanosis,68,3
+2052,hyperbilirubinemia,para 1,68,2
+597,hiv infections,fever,350,34
+971,hiv infections,diarrhea,350,24
+574,hiv infections,cough,350,22
+680,hiv infections,chill,350,20
+1422,hiv infections,decreased body weight,350,19
+776,hiv infections,night sweat,350,14
+311,hiv infections,feeling suicidal,350,12
+1187,hiv infections,patient non compliance,350,12
+758,hiv infections,tachypnea,350,11
+653,hiv infections,pleuritic pain,350,10
+642,hiv infections,productive cough,350,9
+1466,hiv infections,spontaneous rupture of membranes,350,4
+1474,hiv infections,hypotonic,350,2
+1553,herniahiatal,pain abdominal,61,27
+295,herniahiatal,vomiting,61,24
+173,herniahiatal,nausea,61,22
+1502,herniahiatal,sore to touch,61,16
+556,herniahiatal,dyspnea on exertion,61,10
+1073,herniahiatal,hyponatremia,61,10
+1306,herniahiatal,headache,61,10
+1103,herniahiatal,guaiac positive,61,8
+1954,herniahiatal,myalgia,61,7
+1326,herniahiatal,general discomfort,61,5
+1275,herniahiatal,asterixis,61,4
+1320,herniahiatal,numbness of hand,61,4
+1722,herniahiatal,photophobia,61,3
+1995,herniahiatal,fatigability,61,3
+2062,herniahiatal,prodrome,61,1
+920,hernia,pain,164,41
+1534,hernia,pain abdominal,164,27
+95,hernia,asthenia,164,22
+161,hernia,nausea,164,22
+1028,hernia,apyrexial,164,19
+1365,hernia,mass of body structure,164,17
+1494,hernia,sore to touch,164,16
+1453,hernia,thicken,164,14
+1127,hernia,haemorrhage,164,13
+847,hernia,hemiplegia,164,10
+1314,hernia,food intolerance,164,5
+1831,hernia,posturing,164,2
+1828,hernia,hyperventilation,164,1
+1829,hernia,excruciating pain,164,1
+1830,hernia,gag,164,1
+1833,hernia,pulse absent,164,1
+575,hepatitis C,cough,269,22
+686,hepatitis C,chill,269,20
+340,hepatitis C,hallucinations auditory,269,14
+312,hepatitis C,feeling suicidal,269,12
+1190,hepatitis C,patient non compliance,269,12
+1240,hepatitis C,ascites,269,10
+1658,hepatitis C,distended abdomen,269,7
+1273,hepatitis C,asterixis,269,4
+1665,hepatitis C,ache,269,2
+1668,hepatitis C,macerated skin,269,1
+1669,hepatitis C,heavy feeling,269,1
+1542,hepatitis B,pain abdominal,111,27
+766,hepatitis B,tachypnea,111,11
+1216,hepatitis B,abdominal tenderness,111,7
+667,hepatitis B,yellow sputum,111,6
+1628,hepatitis B,wheelchair bound,111,3
+1918,hepatitis B,projectile vomiting,111,3
+1962,hepatitis B,moan,111,3
+1960,hepatitis B,inappropriate affect,111,1
+1961,hepatitis B,poor feeding,111,1
+611,hepatitis,fever,133,34
+1539,hepatitis,pain abdominal,133,27
+285,hepatitis,vomiting,133,24
+691,hepatitis,chill,133,20
+750,hepatitis,distress respiratory,133,12
+764,hepatitis,tachypnea,133,11
+961,hepatitis,pruritus,133,10
+1242,hepatitis,ascites,133,10
+1588,hepatitis,anorexia,133,8
+1166,hepatitis,transaminitis,133,7
+1470,hepatitis,spontaneous rupture of membranes,133,4
+1916,hepatitis,projectile vomiting,133,3
+935,hemorrhoids,pain,80,41
+990,hemorrhoids,diarrhea,80,24
+585,hemorrhoids,cough,80,22
+1135,hemorrhoids,haemorrhage,80,13
+733,hemorrhoids,wheezing,80,11
+1071,hemorrhoids,hyponatremia,80,10
+76,hemorrhoids,dizziness,80,8
+1102,hemorrhoids,guaiac positive,80,8
+1580,hemorrhoids,clonus,80,5
+1319,hemorrhoids,numbness of hand,80,4
+1510,hemorrhoids,burning sensation,80,4
+1938,hemorrhoids,nausea and vomiting,80,4
+1925,hemorrhoids,achalasia,80,3
+1796,hemorrhoids,decreased stool caliber,80,2
+1874,hemorrhoids,hunger,80,2
+2037,hemorrhoids,bowel sounds decreased,80,1
+92,hemiparesis,asthenia,171,22
+253,hemiparesis,unresponsiveness,171,22
+1288,hemiparesis,sleepy,171,11
+846,hemiparesis,hemiplegia,171,10
+856,hemiparesis,seizure,171,10
+835,hemiparesis,facial paresis,171,9
+825,hemiparesis,dysarthria,171,6
+831,hemiparesis,speech slurred,171,5
+1578,hemiparesis,clonus,171,5
+1331,hemiparesis,drowsiness,171,4
+1768,hemiparesis,fremitus,171,4
+1757,hemiparesis,paresis,171,3
+1765,hemiparesis,stupor,171,3
+1761,hemiparesis,aphagia,171,2
+1773,hemiparesis,paralyse,171,2
+1763,hemiparesis,focal seizures,171,1
+1764,hemiparesis,abnormal sensation,171,1
+1772,hemiparesis,stinging sensation,171,1
+927,gout,pain,124,41
+1498,gout,sore to touch,124,16
+1017,gout,swelling,124,13
+541,gout,hypokinesia,124,12
+1194,gout,patient non compliance,124,12
+1243,gout,ascites,124,10
+953,gout,erythema,124,7
+1481,gout,redness,124,7
+1417,gout,emphysematous change,124,3
+1392,gout,hot flush,124,2
+458,glaucoma,agitation,95,18
+1372,glaucoma,mass of body structure,95,17
+1405,glaucoma,lesion,95,17
+1069,glaucoma,hyponatremia,95,10
+110,glaucoma,fall,95,9
+1203,glaucoma,unconscious state,95,7
+1225,glaucoma,unsteady gait,95,7
+1664,glaucoma,distended abdomen,95,7
+1509,glaucoma,burning sensation,95,4
+1648,glaucoma,paresthesia,95,4
+909,gastroesophageal reflux disease,pain,325,41
+1529,gastroesophageal reflux disease,pain abdominal,325,27
+87,gastroesophageal reflux disease,asthenia,325,22
+156,gastroesophageal reflux disease,nausea,325,22
+8,gastroesophageal reflux disease,pain chest,325,20
+138,gastroesophageal reflux disease,sweating increased,325,11
+1068,gastroesophageal reflux disease,hyponatremia,325,10
+147,gastroesophageal reflux disease,palpitation,325,9
+1519,gastroesophageal reflux disease,constipation,325,9
+562,gastroesophageal reflux disease,chest tightness,325,8
+1322,gastroesophageal reflux disease,general discomfort,325,5
+1506,gastroesophageal reflux disease,burning sensation,325,4
+1515,gastroesophageal reflux disease,sensory discomfort,325,4
+1558,gastroesophageal reflux disease,heartburn,325,4
+880,gastroesophageal reflux disease,presence of q wave,325,3
+1511,gastroesophageal reflux disease,satiety early,325,3
+1514,gastroesophageal reflux disease,throbbing sensation quality,325,1
+622,gastroenteritis,fever,87,34
+1549,gastroenteritis,pain abdominal,87,27
+170,gastroenteritis,nausea,87,22
+1439,gastroenteritis,decreased body weight,87,19
+1440,gastroenteritis,decreased body weight,87,19
+1376,gastroenteritis,mass of body structure,87,17
+1500,gastroenteritis,sore to touch,87,16
+1070,gastroenteritis,hyponatremia,87,10
+1949,gastroenteritis,myalgia,87,7
+2026,gastroenteritis,breath-holding spell,87,1
+2027,gastroenteritis,retch,87,1
+925,gastritis,pain,140,41
+1537,gastritis,pain abdominal,140,27
+283,gastritis,vomiting,140,24
+163,gastritis,nausea,140,22
+1430,gastritis,decreased body weight,140,19
+1497,gastritis,sore to touch,140,16
+1128,gastritis,haemorrhage,140,13
+75,gastritis,dizziness,140,8
+1101,gastritis,guaiac positive,140,8
+485,gastritis,intoxication,140,6
+1152,gastritis,heme positive,140,3
+1881,gastritis,disequilibrium,140,1
+56,fibroid tumor,shortness of breath,96,46
+620,fibroid tumor,fever,96,34
+1133,fibroid tumor,haemorrhage,96,13
+1560,fibroid tumor,heartburn,96,4
+1475,fibroid tumor,hypotonic,96,2
+2002,fibroid tumor,abnormally hard consistency,96,2
+1997,fibroid tumor,para 2,96,1
+1998,fibroid tumor,abortion,96,1
+1999,fibroid tumor,intermenstrual heavy bleeding,96,1
+2000,fibroid tumor,previous pregnancies 2,96,1
+2001,fibroid tumor,primigravida,96,1
+2004,fibroid tumor,proteinemia,96,1
+49,failure kidney,shortness of breath,140,46
+256,failure kidney,unresponsiveness,140,22
+1259,failure kidney,hypotension,140,16
+216,failure kidney,orthopnea,140,14
+1129,failure kidney,haemorrhage,140,13
+1145,failure kidney,fatigue,140,9
+1346,failure kidney,prostatism,140,8
+1632,failure kidney,oliguria,140,5
+1894,failure kidney,extreme exhaustion,140,5
+1207,failure kidney,bedridden,140,4
+1208,failure kidney,bedridden,140,4
+1269,failure kidney,enuresis,140,4
+1892,failure kidney,slowing of urinary stream,140,2
+1899,failure kidney,no status change,140,1
+26,failure heart congestive,shortness of breath,963,46
+567,failure heart congestive,cough,963,22
+798,failure heart congestive,dyspnea,963,22
+221,failure heart congestive,rale,963,18
+207,failure heart congestive,orthopnea,963,14
+725,failure heart congestive,wheezing,963,11
+791,failure heart congestive,jugular venous distention,963,7
+51,failure heart,shortness of breath,138,46
+813,failure heart,dyspnea,138,22
+1260,failure heart,hypotension,138,16
+217,failure heart,orthopnea,138,14
+540,failure heart,hypokinesia,138,12
+552,failure heart,dyspnea on exertion,138,10
+186,failure heart,angina pectoris,138,9
+1146,failure heart,fatigue,138,9
+797,failure heart,jugular venous distention,138,7
+1902,failure heart,systolic ejection murmur,138,2
+1901,failure heart,pansystolic murmur,138,1
+914,exanthema,pain,208,41
+604,exanthema,fever,208,34
+687,exanthema,chill,208,20
+1025,exanthema,apyrexial,208,19
+1398,exanthema,lesion,208,17
+1010,exanthema,swelling,208,13
+960,exanthema,pruritus,208,10
+1297,exanthema,headache,208,10
+949,exanthema,erythema,208,7
+1478,exanthema,redness,208,7
+1723,exanthema,painful swallowing,208,4
+1163,exanthema,arthralgia,208,3
+1487,exanthema,scratch marks,208,3
+1719,exanthema,photophobia,208,3
+1718,exanthema,macule,208,1
+249,epilepsy,unresponsiveness,290,22
+470,epilepsy,tremor,290,13
+1285,epilepsy,sleepy,290,11
+844,epilepsy,hemiplegia,290,10
+855,epilepsy,seizure,290,10
+1062,epilepsy,lethargy,290,7
+1277,epilepsy,muscle twitch,290,6
+1621,epilepsy,gurgle,290,5
+1329,epilepsy,drowsiness,290,4
+1614,epilepsy,aura,290,4
+1627,epilepsy,wheelchair bound,290,3
+1618,epilepsy,myoclonus,290,2
+1613,epilepsy,hypometabolism,290,1
+62,endocarditis,shortness of breath,71,46
+587,endocarditis,cough,71,22
+1035,endocarditis,apyrexial,71,19
+1442,endocarditis,decreased body weight,71,19
+1265,endocarditis,hypotension,71,16
+218,endocarditis,orthopnea,71,14
+789,endocarditis,night sweat,71,14
+1460,endocarditis,thicken,71,14
+544,endocarditis,hypokinesia,71,12
+660,endocarditis,pleuritic pain,71,10
+1002,endocarditis,abscess bacterial,71,7
+1952,endocarditis,myalgia,71,7
+673,endocarditis,breath sounds decreased,71,6
+1598,endocarditis,metastatic lesion,71,5
+2042,endocarditis,flare,71,1
+261,encephalopathy,unresponsiveness,103,22
+1456,encephalopathy,thicken,103,14
+1132,encephalopathy,haemorrhage,103,13
+542,encephalopathy,hypokinesia,103,12
+1291,encephalopathy,sleepy,103,11
+1092,encephalopathy,consciousness clear,103,7
+1274,encephalopathy,asterixis,103,4
+1335,encephalopathy,drowsiness,103,4
+1616,encephalopathy,aura,103,4
+1979,encephalopathy,debilitation,103,3
+1832,encephalopathy,posturing,103,2
+1973,encephalopathy,uncoordination,103,2
+1975,encephalopathy,absences finding,103,2
+1978,encephalopathy,tonic seizures,103,1
+816,emphysema pulmonary,dyspnea,80,22
+239,emphysema pulmonary,rale,80,18
+788,emphysema pulmonary,night sweat,80,14
+555,emphysema pulmonary,dyspnea on exertion,80,10
+1526,emphysema pulmonary,constipation,80,9
+1950,emphysema pulmonary,myalgia,80,7
+1804,emphysema pulmonary,scar tissue,80,5
+871,emphysema pulmonary,symptom aggravating factors,80,4
+1382,emphysema pulmonary,has religious belief,80,4
+1727,emphysema pulmonary,painful swallowing,80,4
+1731,emphysema pulmonary,cachexia,80,4
+1164,emphysema pulmonary,arthralgia,80,3
+1181,emphysema pulmonary,hypercapnia,80,3
+1792,emphysema pulmonary,room spinning,80,3
+1943,emphysema pulmonary,tenesmus,80,3
+1963,emphysema pulmonary,moan,80,3
+1883,emphysema pulmonary,flushing,80,2
+1932,emphysema pulmonary,clammy skin,80,2
+2034,emphysema pulmonary,behavior showing increased motor activity,80,1
+2035,emphysema pulmonary,coordination abnormal,80,1
+2036,emphysema pulmonary,choke,80,1
+35,embolism pulmonary,shortness of breath,294,46
+248,embolism pulmonary,unresponsiveness,294,22
+803,embolism pulmonary,dyspnea,294,22
+10,embolism pulmonary,pain chest,294,20
+1023,embolism pulmonary,apyrexial,294,19
+748,embolism pulmonary,distress respiratory,294,12
+728,embolism pulmonary,wheezing,294,11
+762,embolism pulmonary,tachypnea,294,11
+654,embolism pulmonary,pleuritic pain,294,10
+717,embolism pulmonary,non-productive cough,294,10
+643,embolism pulmonary,productive cough,294,9
+663,embolism pulmonary,yellow sputum,294,6
+1177,embolism pulmonary,hypoxemia,294,4
+1605,embolism pulmonary,neck stiffness,294,4
+1602,embolism pulmonary,hematocrit decreased,294,3
+1609,embolism pulmonary,cicatrisation,294,2
+63,effusion pericardial,shortness of breath,71,46
+938,effusion pericardial,pain,71,41
+819,effusion pericardial,dyspnea,71,22
+1266,effusion pericardial,hypotension,71,16
+411,effusion pericardial,blackout,71,10
+840,effusion pericardial,facial paresis,71,9
+1082,effusion pericardial,hemodynamically stable,71,9
+486,effusion pericardial,intoxication,71,6
+1633,effusion pericardial,oliguria,71,5
+1575,effusion pericardial,cardiomegaly,71,3
+1174,effusion pericardial,sputum purulent,71,2
+2043,effusion pericardial,pericardial friction rub,71,1
+46,edema pulmonary,shortness of breath,161,46
+810,edema pulmonary,dyspnea,161,22
+16,edema pulmonary,pain chest,161,20
+235,edema pulmonary,rale,161,18
+1257,edema pulmonary,hypotension,161,16
+214,edema pulmonary,orthopnea,161,14
+1192,edema pulmonary,patient non compliance,161,12
+142,edema pulmonary,sweating increased,161,11
+730,edema pulmonary,wheezing,161,11
+763,edema pulmonary,tachypnea,161,11
+1232,edema pulmonary,hyperkalemia,161,9
+795,edema pulmonary,jugular venous distention,161,7
+887,edema pulmonary,chest discomfort,161,7
+1673,edema pulmonary,sinus rhythm,161,6
+930,diverticulosis,pain,114,41
+982,diverticulosis,diarrhea,114,24
+165,diverticulosis,nausea,114,22
+1131,diverticulosis,haemorrhage,114,13
+316,diverticulosis,feeling suicidal,114,12
+356,diverticulosis,feeling hopeless,114,11
+1523,diverticulosis,constipation,114,9
+1589,diverticulosis,anorexia,114,8
+1001,diverticulosis,abscess bacterial,114,7
+1311,diverticulosis,lightheadedness,114,5
+1153,diverticulosis,heme positive,114,3
+1917,diverticulosis,projectile vomiting,114,3
+1915,diverticulosis,cystic lesion,114,2
+1944,diverticulosis,fecaluria,114,1
+1945,diverticulosis,pneumatouria,114,1
+923,diverticulitis,pain,145,41
+607,diverticulitis,fever,145,34
+1535,diverticulitis,pain abdominal,145,27
+281,diverticulitis,vomiting,145,24
+979,diverticulitis,diarrhea,145,24
+1029,diverticulitis,apyrexial,145,19
+1495,diverticulitis,sore to touch,145,16
+1454,diverticulitis,thicken,145,14
+1522,diverticulitis,constipation,145,9
+1587,diverticulitis,anorexia,145,8
+999,diverticulitis,abscess bacterial,145,7
+1214,diverticulitis,abdominal tenderness,145,7
+1224,diverticulitis,unsteady gait,145,7
+1674,diverticulitis,sinus rhythm,145,6
+1043,diverticulitis,dysuria,145,4
+1105,diverticulitis,monoclonal,145,3
+1868,diverticulitis,colic abdominal,145,3
+1865,diverticulitis,dullness,145,2
+1867,diverticulitis,red blotches,145,1
+22,diabetes,shortness of breath,1421,46
+275,diabetes,vomiting,1421,24
+79,diabetes,asthenia,1421,22
+155,diabetes,nausea,1421,22
+241,diabetes,unresponsiveness,1421,22
+1,diabetes,pain chest,1421,20
+219,diabetes,rale,1421,18
+204,diabetes,orthopnea,1421,14
+133,diabetes,sweating increased,1421,11
+266,diabetes,mental status changes,1421,9
+127,diabetes,vertigo,1421,5
+301,diabetes,labored breathing,1421,5
+195,diabetes,polyuria,1421,4
+199,diabetes,polydypsia,1421,4
+446,depressive disorder,agitation,1337,18
+337,depressive disorder,hallucinations auditory,1337,14
+467,depressive disorder,tremor,1337,13
+307,depressive disorder,feeling suicidal,1337,12
+323,depressive disorder,suicidal,1337,12
+352,depressive disorder,feeling hopeless,1337,11
+389,depressive disorder,irritable mood,1337,11
+434,depressive disorder,worry,1337,11
+372,depressive disorder,sleeplessness,1337,10
+403,depressive disorder,blackout,1337,10
+503,depressive disorder,difficulty,1337,10
+424,depressive disorder,hallucinations visual,1337,9
+525,depressive disorder,homelessness,1337,8
+364,depressive disorder,weepiness,1337,7
+416,depressive disorder,mood depressed,1337,7
+482,depressive disorder,intoxication,1337,6
+490,depressive disorder,verbal auditory hallucinations,1337,6
+515,depressive disorder,nightmare,1337,6
+383,depressive disorder,motor retardation,1337,5
+497,depressive disorder,energy increased,1337,5
+522,depressive disorder,unable to concentrate,1337,2
+445,depression mental,agitation,1337,18
+336,depression mental,hallucinations auditory,1337,14
+466,depression mental,tremor,1337,13
+306,depression mental,feeling suicidal,1337,12
+322,depression mental,suicidal,1337,12
+351,depression mental,feeling hopeless,1337,11
+388,depression mental,irritable mood,1337,11
+433,depression mental,worry,1337,11
+371,depression mental,sleeplessness,1337,10
+402,depression mental,blackout,1337,10
+502,depression mental,difficulty,1337,10
+423,depression mental,hallucinations visual,1337,9
+524,depression mental,homelessness,1337,8
+363,depression mental,weepiness,1337,7
+415,depression mental,mood depressed,1337,7
+481,depression mental,intoxication,1337,6
+489,depression mental,verbal auditory hallucinations,1337,6
+514,depression mental,nightmare,1337,6
+382,depression mental,motor retardation,1337,5
+496,depression mental,energy increased,1337,5
+521,depression mental,unable to concentrate,1337,2
+240,dependence,rale,67,18
+463,dependence,agitation,67,18
+480,dependence,tremor,67,13
+334,dependence,suicidal,67,12
+360,dependence,feeling hopeless,67,11
+862,dependence,seizure,67,10
+532,dependence,homelessness,67,8
+1350,dependence,prostatism,67,8
+1063,dependence,lethargy,67,7
+488,dependence,intoxication,67,6
+1282,dependence,muscle twitch,67,6
+1906,dependence,stuffy nose,67,2
+1920,dependence,heavy legs,67,2
+903,dementia,pain,504,41
+594,dementia,fever,504,34
+243,dementia,unresponsiveness,504,22
+571,dementia,cough,504,22
+223,dementia,rale,504,18
+447,dementia,agitation,504,18
+114,dementia,syncope,504,14
+338,dementia,hallucinations auditory,504,14
+103,dementia,fall,504,9
+834,dementia,facial paresis,504,9
+703,dementia,rhonchus,504,7
+1056,dementia,lethargy,504,7
+1198,dementia,unconscious state,504,7
+1213,dementia,abdominal tenderness,504,7
+1221,dementia,unsteady gait,504,7
+1108,dementia,ecchymosis,504,5
+1205,dementia,bedridden,504,4
+1206,dementia,bedridden,504,4
+464,delusion,agitation,56,18
+465,delusion,agitation,56,18
+350,delusion,hallucinations auditory,56,14
+335,delusion,suicidal,56,12
+361,delusion,feeling hopeless,56,11
+400,delusion,irritable mood,56,11
+401,delusion,irritable mood,56,11
+444,delusion,worry,56,11
+380,delusion,sleeplessness,56,10
+414,delusion,blackout,56,10
+370,delusion,weepiness,56,7
+1640,delusion,catatonia,56,5
+1685,delusion,terrify,56,3
+1699,delusion,loose associations,56,3
+1809,delusion,neologism,56,3
+1812,delusion,decompensation,56,3
+2032,delusion,verbally abusive behavior,56,3
+1688,delusion,giddy mood,56,2
+1690,delusion,disturbed family,56,2
+1984,delusion,impaired cognition,56,2
+2070,delusion,homicidal thoughts,56,1
+626,delirium,fever,68,34
+992,delirium,diarrhea,68,24
+265,delirium,unresponsiveness,68,22
+349,delirium,hallucinations auditory,68,14
+320,delirium,feeling suicidal,68,12
+333,delirium,suicidal,68,12
+443,delirium,worry,68,11
+1294,delirium,sleepy,68,11
+1072,delirium,hyponatremia,68,10
+1226,delirium,unsteady gait,68,7
+1338,delirium,drowsiness,68,4
+1680,delirium,withdraw,68,4
+2031,delirium,verbally abusive behavior,68,3
+602,dehydration,fever,297,34
+277,dehydration,vomiting,297,24
+972,dehydration,diarrhea,297,24
+88,dehydration,asthenia,297,22
+157,dehydration,nausea,297,22
+1255,dehydration,hypotension,297,16
+116,dehydration,syncope,297,14
+117,dehydration,syncope,297,14
+405,dehydration,blackout,297,10
+271,dehydration,mental status changes,297,9
+73,dehydration,dizziness,297,8
+1583,dehydration,anorexia,297,8
+1061,dehydration,lethargy,297,7
+1308,dehydration,lightheadedness,297,5
+1516,dehydration,sensory discomfort,297,4
+1582,dehydration,unwell,297,1
+1591,dehydration,history of - blackout,297,1
+98,deglutition disorder,asthenia,126,22
+1431,deglutition disorder,decreased body weight,126,19
+1403,deglutition disorder,lesion,126,17
+827,deglutition disorder,dysarthria,126,6
+1341,deglutition disorder,stiffness,126,4
+1647,deglutition disorder,paresthesia,126,4
+1724,deglutition disorder,painful swallowing,126,4
+1447,deglutition disorder,hoarseness,126,3
+1825,deglutition disorder,spasm,126,3
+1848,deglutition disorder,ataxia,126,3
+1923,deglutition disorder,achalasia,126,3
+1756,deglutition disorder,stridor,126,2
+1926,deglutition disorder,side pain,126,2
+1921,deglutition disorder,titubation,126,1
+1922,deglutition disorder,dysdiadochokinesia,126,1
+904,degenerativepolyarthritis,pain,405,41
+85,degenerativepolyarthritis,asthenia,405,22
+715,degenerativepolyarthritis,non-productive cough,405,10
+1222,degenerativepolyarthritis,unsteady gait,405,7
+1312,degenerativepolyarthritis,food intolerance,405,5
+1321,degenerativepolyarthritis,general discomfort,405,5
+200,degenerativepolyarthritis,polydypsia,405,4
+1317,degenerativepolyarthritis,numbness of hand,405,4
+1327,degenerativepolyarthritis,drowsiness,405,4
+1339,degenerativepolyarthritis,stiffness,405,4
+945,degenerativepolyarthritis,nonsmoker,405,2
+34,deep vein thrombosis,shortness of breath,310,46
+910,deep vein thrombosis,pain,310,41
+228,deep vein thrombosis,rale,310,18
+1254,deep vein thrombosis,hypotension,310,16
+1008,deep vein thrombosis,swelling,310,13
+716,deep vein thrombosis,non-productive cough,310,10
+948,deep vein thrombosis,erythema,310,7
+1477,deep vein thrombosis,redness,310,7
+1109,deep vein thrombosis,ecchymosis,310,5
+1577,deep vein thrombosis,clonus,310,5
+1573,deep vein thrombosis,cardiomegaly,310,3
+1572,deep vein thrombosis,pain in lower limb,310,1
+629,decubitus ulcer,fever,42,34
+1708,decubitus ulcer,systolic murmur,42,3
+1913,decubitus ulcer,frail,42,3
+24,coronary heart disease,shortness of breath,1284,46
+3,coronary heart disease,pain chest,1284,20
+206,coronary heart disease,orthopnea,1284,14
+534,coronary heart disease,hypokinesia,1284,12
+135,coronary heart disease,sweating increased,1284,11
+547,coronary heart disease,dyspnea on exertion,1284,10
+180,coronary heart disease,angina pectoris,1284,9
+558,coronary heart disease,chest tightness,1284,8
+190,coronary heart disease,pressure chest,1284,6
+23,coronary arteriosclerosis,shortness of breath,1284,46
+2,coronary arteriosclerosis,pain chest,1284,20
+205,coronary arteriosclerosis,orthopnea,1284,14
+533,coronary arteriosclerosis,hypokinesia,1284,12
+134,coronary arteriosclerosis,sweating increased,1284,11
+546,coronary arteriosclerosis,dyspnea on exertion,1284,10
+179,coronary arteriosclerosis,angina pectoris,1284,9
+557,coronary arteriosclerosis,chest tightness,1284,8
+189,coronary arteriosclerosis,pressure chest,1284,6
+84,confusion,asthenia,408,22
+244,confusion,unresponsiveness,408,22
+448,confusion,agitation,408,18
+468,confusion,tremor,408,13
+1283,confusion,sleepy,408,11
+854,confusion,seizure,408,10
+1066,confusion,hyponatremia,408,10
+1295,confusion,headache,408,10
+104,confusion,fall,408,9
+269,confusion,mental status changes,408,9
+72,confusion,dizziness,408,8
+1057,confusion,lethargy,408,7
+1089,confusion,consciousness clear,408,7
+1199,confusion,unconscious state,408,7
+823,confusion,dysarthria,408,6
+1276,confusion,muscle twitch,408,6
+829,confusion,speech slurred,408,5
+1307,confusion,lightheadedness,408,5
+1268,confusion,enuresis,408,4
+1272,confusion,asterixis,408,4
+929,colitis,pain,114,41
+614,colitis,fever,114,34
+1541,colitis,pain abdominal,114,27
+286,colitis,vomiting,114,24
+164,colitis,nausea,114,22
+692,colitis,chill,114,20
+1455,colitis,thicken,114,14
+1081,colitis,hemodynamically stable,114,9
+711,colitis,green sputum,114,4
+1787,colitis,urge incontinence,114,4
+1935,colitis,nausea and vomiting,114,4
+1941,colitis,tenesmus,114,3
+1939,colitis,awakening early,114,2
+1531,cirrhosis,pain abdominal,218,27
+1397,cirrhosis,lesion,218,17
+1492,cirrhosis,sore to touch,218,16
+959,cirrhosis,pruritus,218,10
+1241,cirrhosis,ascites,218,10
+106,cirrhosis,fall,218,9
+1075,cirrhosis,hemodynamically stable,218,9
+1098,cirrhosis,guaiac positive,218,8
+1115,cirrhosis,tumor cell invasion,218,8
+1659,cirrhosis,distended abdomen,218,7
+1711,cirrhosis,splenomegaly,218,5
+1716,cirrhosis,bleeding of vagina,218,2
+31,chronic obstructive airway disease,shortness of breath,524,46
+570,chronic obstructive airway disease,cough,524,22
+801,chronic obstructive airway disease,dyspnea,524,22
+744,chronic obstructive airway disease,distress respiratory,524,12
+1183,chronic obstructive airway disease,patient non compliance,524,12
+727,chronic obstructive airway disease,wheezing,524,11
+561,chronic obstructive airway disease,chest tightness,524,8
+1176,chronic obstructive airway disease,hypoxemia,524,4
+1180,chronic obstructive airway disease,hypercapnia,524,3
+1173,chronic obstructive airway disease,sputum purulent,524,2
+37,chronic kidney failure,shortness of breath,280,46
+603,chronic kidney failure,fever,280,34
+278,chronic kidney failure,vomiting,280,24
+973,chronic kidney failure,diarrhea,280,24
+89,chronic kidney failure,asthenia,280,22
+158,chronic kidney failure,nausea,280,22
+250,chronic kidney failure,unresponsiveness,280,22
+685,chronic kidney failure,chill,280,20
+1024,chronic kidney failure,apyrexial,280,19
+230,chronic kidney failure,rale,280,18
+211,chronic kidney failure,orthopnea,280,14
+1009,chronic kidney failure,swelling,280,13
+655,chronic kidney failure,pleuritic pain,280,10
+272,chronic kidney failure,mental status changes,280,9
+1229,chronic kidney failure,hyperkalemia,280,9
+563,chronic kidney failure,chest tightness,280,8
+1097,chronic kidney failure,guaiac positive,280,8
+793,chronic kidney failure,jugular venous distention,280,7
+665,chronic kidney failure,yellow sputum,280,6
+1630,chronic kidney failure,oliguria,280,5
+1636,chronic kidney failure,catatonia,280,5
+771,chronic kidney failure,malaise,280,3
+65,chronic alcoholic intoxication,shortness of breath,70,46
+348,chronic alcoholic intoxication,hallucinations auditory,70,14
+479,chronic alcoholic intoxication,tremor,70,13
+319,chronic alcoholic intoxication,feeling suicidal,70,12
+332,chronic alcoholic intoxication,suicidal,70,12
+359,chronic alcoholic intoxication,feeling hopeless,70,11
+399,chronic alcoholic intoxication,irritable mood,70,11
+379,chronic alcoholic intoxication,sleeplessness,70,10
+861,chronic alcoholic intoxication,seizure,70,10
+531,chronic alcoholic intoxication,homelessness,70,8
+1204,chronic alcoholic intoxication,unconscious state,70,7
+674,chronic alcoholic intoxication,breath sounds decreased,70,6
+1808,chronic alcoholic intoxication,neologism,70,3
+2045,chronic alcoholic intoxication,hoard,70,1
+2046,chronic alcoholic intoxication,panic,70,1
+941,cholelithiasis,pain,61,41
+1554,cholelithiasis,pain abdominal,61,27
+297,cholelithiasis,vomiting,61,24
+994,cholelithiasis,diarrhea,61,24
+175,cholelithiasis,nausea,61,22
+1037,cholelithiasis,apyrexial,61,19
+1503,cholelithiasis,sore to touch,61,16
+1461,cholelithiasis,thicken,61,14
+1247,cholelithiasis,ascites,61,10
+152,cholelithiasis,palpitation,61,9
+940,cholecystitis,pain,66,41
+1552,cholecystitis,pain abdominal,66,27
+993,cholecystitis,diarrhea,66,24
+172,cholecystitis,nausea,66,22
+1246,cholecystitis,ascites,66,10
+1527,cholecystitis,constipation,66,9
+1676,cholecystitis,sinus rhythm,66,6
+1845,cholecystitis,qt interval prolonged,66,3
+1869,cholecystitis,colic abdominal,66,3
+1964,cholecystitis,moan,66,3
+2048,cholecystitis,cardiovascular event,66,3
+2057,cholecystitis,flatulence,66,3
+1989,cholecystitis,groggy,66,2
+2003,cholecystitis,abnormally hard consistency,66,2
+2060,cholecystitis,gasping for breath,66,1
+2061,cholecystitis,feces in rectum,66,1
+908,cellulitis,pain,341,41
+598,cellulitis,fever,341,34
+7,cellulitis,pain chest,341,20
+681,cellulitis,chill,341,20
+1489,cellulitis,sore to touch,341,16
+1007,cellulitis,swelling,341,13
+1188,cellulitis,patient non compliance,341,12
+958,cellulitis,pruritus,341,10
+947,cellulitis,erythema,341,7
+998,cellulitis,abscess bacterial,341,7
+1476,cellulitis,redness,341,7
+1486,cellulitis,scratch marks,341,3
+1484,cellulitis,hyperacusis,341,2
+1483,cellulitis,hypesthesia,341,1
+36,cardiomyopathy,shortness of breath,283,46
+804,cardiomyopathy,dyspnea,283,22
+11,cardiomyopathy,pain chest,283,20
+229,cardiomyopathy,rale,283,18
+118,cardiomyopathy,syncope,283,14
+210,cardiomyopathy,orthopnea,283,14
+537,cardiomyopathy,hypokinesia,283,12
+1189,cardiomyopathy,patient non compliance,283,12
+548,cardiomyopathy,dyspnea on exertion,283,10
+148,cardiomyopathy,palpitation,283,9
+1141,cardiomyopathy,fatigue,283,9
+792,cardiomyopathy,jugular venous distention,283,7
+664,cardiomyopathy,yellow sputum,283,6
+1353,cardiomyopathy,weight gain,283,4
+978,carcinoma prostate,diarrhea,163,24
+97,carcinoma prostate,asthenia,163,22
+1428,carcinoma prostate,decreased body weight,163,19
+234,carcinoma prostate,rale,163,18
+1367,carcinoma prostate,mass of body structure,163,17
+657,carcinoma prostate,pleuritic pain,163,10
+1079,carcinoma prostate,hemodynamically stable,163,9
+1100,carcinoma prostate,guaiac positive,163,8
+1117,carcinoma prostate,tumor cell invasion,163,8
+705,carcinoma prostate,rhonchus,163,7
+671,carcinoma prostate,breath sounds decreased,163,6
+1050,carcinoma prostate,hematuria,163,6
+131,carcinoma prostate,vertigo,163,5
+1159,carcinoma prostate,orthostasis,163,5
+1042,carcinoma prostate,dysuria,163,4
+1786,carcinoma prostate,urge incontinence,163,4
+1759,carcinoma prostate,paresis,163,3
+1837,carcinoma prostate,polymyalgia,163,3
+1843,carcinoma prostate,qt interval prolonged,163,3
+1847,carcinoma prostate,ataxia,163,3
+1601,carcinoma prostate,hemianopsia homonymous,163,2
+1835,carcinoma prostate,dysesthesia,163,1
+1841,carcinoma prostate,passed stones,163,1
+59,carcinoma of lung,shortness of breath,86,46
+101,carcinoma of lung,asthenia,86,22
+583,carcinoma of lung,cough,86,22
+238,carcinoma of lung,rale,86,18
+460,carcinoma of lung,agitation,86,18
+1411,carcinoma of lung,lesion,86,17
+787,carcinoma of lung,night sweat,86,14
+397,carcinoma of lung,irritable mood,86,11
+637,carcinoma of lung,decreased translucency,86,7
+739,carcinoma of lung,haemoptysis,86,5
+1597,carcinoma of lung,metastatic lesion,86,5
+1626,carcinoma of lung,gurgle,86,5
+1656,carcinoma of lung,lung nodule,86,4
+1981,carcinoma of lung,debilitation,86,3
+1667,carcinoma of lung,ache,86,2
+1546,carcinoma colon,pain abdominal,94,27
+289,carcinoma colon,vomiting,94,24
+987,carcinoma colon,diarrhea,94,24
+168,carcinoma colon,nausea,94,22
+1407,carcinoma colon,lesion,94,17
+1525,carcinoma colon,constipation,94,9
+898,carcinoma colon,bradycardia,94,8
+1348,carcinoma colon,prostatism,94,8
+1325,carcinoma colon,general discomfort,94,5
+203,carcinoma colon,polydypsia,94,4
+1879,carcinoma colon,urinary hesitation,94,3
+1904,carcinoma colon,systolic ejection murmur,94,2
+2007,carcinoma colon,dizzy spells,94,1
+2009,carcinoma colon,shooting pain,94,1
+2011,carcinoma colon,hyperemesis,94,1
+812,carcinoma breast,dyspnea,152,22
+1370,carcinoma breast,mass of body structure,152,17
+1402,carcinoma breast,lesion,152,17
+1014,carcinoma breast,swelling,152,13
+510,carcinoma breast,difficulty,152,10
+951,carcinoma breast,erythema,152,7
+1508,carcinoma breast,burning sensation,152,4
+1646,carcinoma breast,paresthesia,152,4
+1389,carcinoma breast,formication,152,3
+1855,carcinoma breast,mass in breast,152,2
+1860,carcinoma breast,estrogen use,152,2
+1858,carcinoma breast,retropulsion,152,1
+912,carcinoma,pain,269,41
+974,carcinoma,diarrhea,269,24
+159,carcinoma,nausea,269,22
+1424,carcinoma,decreased body weight,269,19
+1363,carcinoma,mass of body structure,269,17
+1396,carcinoma,lesion,269,17
+1490,carcinoma,sore to touch,269,16
+1451,carcinoma,thicken,269,14
+718,carcinoma,non-productive cough,269,10
+1520,carcinoma,constipation,269,9
+1114,carcinoma,tumor cell invasion,269,8
+1323,carcinoma,general discomfort,269,5
+1594,carcinoma,metastatic lesion,269,5
+1559,carcinoma,heartburn,269,4
+1644,carcinoma,paresthesia,269,4
+1649,carcinoma,gravida 0,269,4
+1653,carcinoma,lung nodule,269,4
+1446,carcinoma,hoarseness,269,3
+1641,carcinoma,unhappy,269,3
+984,candidiasis,diarrhea,99,24
+694,candidiasis,chill,99,20
+1435,candidiasis,decreased body weight,99,19
+783,candidiasis,night sweat,99,14
+1195,candidiasis,patient non compliance,99,12
+722,candidiasis,non-productive cough,99,10
+1301,candidiasis,headache,99,10
+1170,candidiasis,transaminitis,99,7
+1217,candidiasis,abdominal tenderness,99,7
+1744,candidiasis,throat sore,99,5
+1725,candidiasis,painful swallowing,99,4
+1720,candidiasis,photophobia,99,3
+1957,candidiasis,poor dentition,99,2
+1990,candidiasis,adverse effect,99,1
+1992,candidiasis,abdominal bloating,99,1
+44,bronchitis,shortness of breath,172,46
+605,bronchitis,fever,172,34
+576,bronchitis,cough,172,22
+808,bronchitis,dyspnea,172,22
+688,bronchitis,chill,172,20
+1425,bronchitis,decreased body weight,172,19
+779,bronchitis,night sweat,172,14
+729,bronchitis,wheezing,172,11
+644,bronchitis,productive cough,172,9
+564,bronchitis,chest tightness,172,8
+303,bronchitis,labored breathing,172,5
+736,bronchitis,haemoptysis,172,5
+1742,bronchitis,throat sore,172,5
+1748,bronchitis,snuffle,172,5
+955,bronchitis,hepatosplenomegaly,172,3
+1753,bronchitis,hacking cough,172,2
+1755,bronchitis,stridor,172,2
+452,bipolar disorder,agitation,241,18
+342,bipolar disorder,hallucinations auditory,241,14
+472,bipolar disorder,tremor,241,13
+314,bipolar disorder,feeling suicidal,241,12
+326,bipolar disorder,suicidal,241,12
+355,bipolar disorder,feeling hopeless,241,11
+392,bipolar disorder,irritable mood,241,11
+438,bipolar disorder,worry,241,11
+375,bipolar disorder,sleeplessness,241,10
+407,bipolar disorder,blackout,241,10
+507,bipolar disorder,difficulty,241,10
+427,bipolar disorder,hallucinations visual,241,9
+527,bipolar disorder,homelessness,241,8
+367,bipolar disorder,weepiness,241,7
+484,bipolar disorder,intoxication,241,6
+492,bipolar disorder,verbal auditory hallucinations,241,6
+386,bipolar disorder,motor retardation,241,5
+499,bipolar disorder,energy increased,241,5
+1638,bipolar disorder,catatonia,241,5
+1380,bipolar disorder,has religious belief,241,4
+1697,bipolar disorder,loose associations,241,3
+1682,bipolar disorder,behavior hyperactive,241,2
+1689,bipolar disorder,disturbed family,241,2
+1691,bipolar disorder,hypersomnia,241,2
+1695,bipolar disorder,extrapyramidal sign,241,2
+1693,bipolar disorder,hyperhidrosis disorder,241,1
+1694,bipolar disorder,mydriasis,241,1
+1700,bipolar disorder,exhaustion,241,1
+942,biliary calculus,pain,61,41
+1555,biliary calculus,pain abdominal,61,27
+298,biliary calculus,vomiting,61,24
+995,biliary calculus,diarrhea,61,24
+176,biliary calculus,nausea,61,22
+1038,biliary calculus,apyrexial,61,19
+1504,biliary calculus,sore to touch,61,16
+1462,biliary calculus,thicken,61,14
+1248,biliary calculus,ascites,61,10
+153,biliary calculus,palpitation,61,9
+212,benign prostatic hypertrophy,orthopnea,192,14
+778,benign prostatic hypertrophy,night sweat,192,14
+749,benign prostatic hypertrophy,distress respiratory,192,12
+408,benign prostatic hypertrophy,blackout,192,10
+273,benign prostatic hypertrophy,mental status changes,192,9
+1586,benign prostatic hypertrophy,anorexia,192,8
+824,benign prostatic hypertrophy,dysarthria,192,6
+1157,benign prostatic hypertrophy,orthostasis,192,5
+1728,benign prostatic hypertrophy,cachexia,192,4
+609,bacteremia,fever,142,34
+284,bacteremia,vomiting,142,24
+980,bacteremia,diarrhea,142,24
+255,bacteremia,unresponsiveness,142,22
+690,bacteremia,chill,142,20
+658,bacteremia,pleuritic pain,142,10
+1345,bacteremia,prostatism,142,8
+632,bacteremia,decreased translucency,142,7
+1215,bacteremia,abdominal tenderness,142,7
+1663,bacteremia,distended abdomen,142,7
+1884,bacteremia,indifferent mood,142,3
+1138,bacteremia,pallor,142,2
+1882,bacteremia,flushing,142,2
+1888,bacteremia,hypoalbuminemia,142,2
+1890,bacteremia,pustule,142,2
+1887,bacteremia,urinoma,142,1
+27,asthma,shortness of breath,835,46
+568,asthma,cough,835,22
+742,asthma,distress respiratory,835,12
+726,asthma,wheezing,835,11
+650,asthma,pleuritic pain,835,10
+714,asthma,non-productive cough,835,10
+639,asthma,productive cough,835,9
+559,asthma,chest tightness,835,8
+869,asthma,symptom aggravating factors,835,4
+43,arthritis,shortness of breath,179,46
+916,arthritis,pain,179,41
+91,arthritis,asthenia,179,22
+120,arthritis,syncope,179,14
+1011,arthritis,swelling,179,13
+376,arthritis,sleeplessness,179,10
+1077,arthritis,hemodynamically stable,179,9
+1660,arthritis,distended abdomen,179,7
+1738,arthritis,atypia,179,2
+1740,arthritis,general unsteadiness,179,2
+839,aphasia,facial paresis,76,9
+1281,aphasia,muscle twitch,76,6
+1581,aphasia,clonus,76,5
+1801,aphasia,egophony,76,4
+1762,aphasia,aphagia,76,2
+1774,aphasia,paralyse,76,2
+2039,aphasia,low back pain,76,1
+2040,aphasia,charleyhorse,76,1
+905,anxiety state,pain,390,41
+6,anxiety state,pain chest,390,20
+450,anxiety state,agitation,390,18
+339,anxiety state,hallucinations auditory,390,14
+469,anxiety state,tremor,390,13
+308,anxiety state,feeling suicidal,390,12
+324,anxiety state,suicidal,390,12
+1184,anxiety state,patient non compliance,390,12
+353,anxiety state,feeling hopeless,390,11
+390,anxiety state,irritable mood,390,11
+436,anxiety state,worry,390,11
+373,anxiety state,sleeplessness,390,10
+404,anxiety state,blackout,390,10
+506,anxiety state,difficulty,390,10
+146,anxiety state,palpitation,390,9
+425,anxiety state,hallucinations visual,390,9
+365,anxiety state,weepiness,390,7
+417,anxiety state,mood depressed,390,7
+1090,anxiety state,consciousness clear,390,7
+517,anxiety state,nightmare,390,6
+1379,anxiety state,has religious belief,390,4
+1383,anxiety state,nervousness,390,4
+1387,anxiety state,formication,390,3
+1391,anxiety state,hot flush,390,2
+30,anemia,shortness of breath,544,46
+902,anemia,pain,544,41
+82,anemia,asthenia,544,22
+677,anemia,chill,544,20
+1005,anemia,swelling,544,13
+1122,anemia,haemorrhage,544,13
+1065,anemia,hyponatremia,544,10
+1139,anemia,fatigue,544,9
+71,anemia,dizziness,544,8
+1095,anemia,guaiac positive,544,8
+1112,anemia,tumor cell invasion,544,8
+702,anemia,rhonchus,544,7
+1165,anemia,transaminitis,544,7
+1107,anemia,ecchymosis,544,5
+1156,anemia,orthostasis,544,5
+1104,anemia,monoclonal,544,3
+1151,anemia,heme positive,544,3
+1162,anemia,arthralgia,544,3
+1137,anemia,pallor,544,2
+1154,anemia,pain back,544,2
+1197,affect labile,patient non compliance,45,12
+362,affect labile,feeling hopeless,45,11
+381,affect labile,sleeplessness,45,10
+432,affect labile,hallucinations visual,45,9
+1351,affect labile,prostatism,45,8
+1898,affect labile,extreme exhaustion,45,5
+1211,affect labile,bedridden,45,4
+1212,affect labile,bedridden,45,4
+1271,affect labile,enuresis,45,4
+69,adhesion,shortness of breath,57,46
+943,adhesion,pain,57,41
+300,adhesion,vomiting,57,24
+1443,adhesion,decreased body weight,57,19
+321,adhesion,feeling suicidal,57,12
+431,adhesion,hallucinations visual,57,9
+1227,adhesion,unsteady gait,57,7
+1657,adhesion,lung nodule,57,4
+1566,adhesion,breech presentation,57,3
+2059,adhesion,flatulence,57,3
+2053,adhesion,para 1,57,2
+2068,adhesion,large-for-dates fetus,57,1
+2069,adhesion,immobile,57,1
+918,adenocarcinoma,pain,166,41
+1532,adenocarcinoma,pain abdominal,166,27
+1426,adenocarcinoma,decreased body weight,166,19
+1364,adenocarcinoma,mass of body structure,166,17
+1399,adenocarcinoma,lesion,166,17
+1521,adenocarcinoma,constipation,166,9
+1802,adenocarcinoma,scar tissue,166,5
+1769,adenocarcinoma,fremitus,166,4
+1798,adenocarcinoma,egophony,166,4
+1513,adenocarcinoma,satiety early,166,3
+1610,adenocarcinoma,cicatrisation,166,2
+1795,adenocarcinoma,decreased stool caliber,166,2
+1797,adenocarcinoma,hematochezia,166,1
+595,acquiredimmuno-deficiency syndrome,fever,350,34
+969,acquiredimmuno-deficiency syndrome,diarrhea,350,24
+572,acquiredimmuno-deficiency syndrome,cough,350,22
+678,acquiredimmuno-deficiency syndrome,chill,350,20
+1420,acquiredimmuno-deficiency syndrome,decreased body weight,350,19
+774,acquiredimmuno-deficiency syndrome,night sweat,350,14
+309,acquiredimmuno-deficiency syndrome,feeling suicidal,350,12
+1185,acquiredimmuno-deficiency syndrome,patient non compliance,350,12
+756,acquiredimmuno-deficiency syndrome,tachypnea,350,11
+651,acquiredimmuno-deficiency syndrome,pleuritic pain,350,10
+640,acquiredimmuno-deficiency syndrome,productive cough,350,9
+1464,acquiredimmuno-deficiency syndrome,spontaneous rupture of membranes,350,4
+1472,acquiredimmuno-deficiency syndrome,hypotonic,350,2
+80,accidentcerebrovascular,asthenia,885,22
+242,accidentcerebrovascular,unresponsiveness,885,22
+843,accidentcerebrovascular,hemiplegia,885,10
+853,accidentcerebrovascular,seizure,885,10
+833,accidentcerebrovascular,facial paresis,885,9
+822,accidentcerebrovascular,dysarthria,885,6
+863,accidentcerebrovascular,numbness,885,6
+828,accidentcerebrovascular,speech slurred,885,5
+983,Pneumocystiscariniipneumonia,diarrhea,113,24
+693,Pneumocystiscariniipneumonia,chill,113,20
+1432,Pneumocystiscariniipneumonia,decreased body weight,113,19
+554,Pneumocystiscariniipneumonia,dyspnea on exertion,113,10
+721,Pneumocystiscariniipneumonia,non-productive cough,113,10
+1300,Pneumocystiscariniipneumonia,headache,113,10
+646,Pneumocystiscariniipneumonia,productive cough,113,9
+1168,Pneumocystiscariniipneumonia,transaminitis,113,7
+1948,Pneumocystiscariniipneumonia,myalgia,113,7
+666,Pneumocystiscariniipneumonia,yellow sputum,113,6
+1471,Pneumocystiscariniipneumonia,spontaneous rupture of membranes,113,4
+1608,Pneumocystiscariniipneumonia,neck stiffness,113,4
+1729,Pneumocystiscariniipneumonia,cachexia,113,4
+1754,Pneumocystiscariniipneumonia,hacking cough,113,2
+1872,Pneumocystiscariniipneumonia,hypokalemia,113,2
+1956,Pneumocystiscariniipneumonia,poor dentition,113,2
+1955,Pneumocystiscariniipneumonia,dyspareunia,113,1
+1959,Pneumocystiscariniipneumonia,floppy,113,1
+596,HIV,fever,350,34
+970,HIV,diarrhea,350,24
+573,HIV,cough,350,22
+679,HIV,chill,350,20
+1421,HIV,decreased body weight,350,19
+775,HIV,night sweat,350,14
+310,HIV,feeling suicidal,350,12
+1186,HIV,patient non compliance,350,12
+757,HIV,tachypnea,350,11
+652,HIV,pleuritic pain,350,10
+641,HIV,productive cough,350,9
+1465,HIV,spontaneous rupture of membranes,350,4
+1473,HIV,hypotonic,350,2
+618,Alzheimer's disease,fever,101,34
+581,Alzheimer's disease,cough,101,22
+457,Alzheimer's disease,agitation,101,18
+476,Alzheimer's disease,tremor,101,13
+838,Alzheimer's disease,facial paresis,101,9
+1234,Alzheimer's disease,hyperkalemia,101,9
+707,Alzheimer's disease,rhonchus,101,7
+1093,Alzheimer's disease,consciousness clear,101,7
+519,Alzheimer's disease,nightmare,101,6
+1278,Alzheimer's disease,muscle twitch,101,6
+1209,Alzheimer's disease,bedridden,101,4
+1210,Alzheimer's disease,bedridden,101,4
+1629,Alzheimer's disease,wheelchair bound,101,3
+1912,Alzheimer's disease,frail,101,3
+1988,Alzheimer's disease,groggy,101,2
+1985,Alzheimer's disease,drool,101,1
+1986,Alzheimer's disease,pin-point pupils,101,1
+1987,Alzheimer's disease,tremor resting,101,1

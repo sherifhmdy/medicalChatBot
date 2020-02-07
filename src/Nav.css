@@ -1,0 +1,33 @@
+.navbar-brand{
+    font-family: 'Sigmar One', cursive;
+    font-weight: bolder;
+}
+
+.navbar {
+    height: 10rem;
+}
+
+.nav a{
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+    text-decoration: none;
+    color: black;
+    transition-duration: 1s;
+    padding-right: 2rem;
+}
+
+
+.nav a:hover{
+    cursor: pointer;
+    background-color: rgb(228, 227, 227);
+    border-radius: 5px;
+}
+
+.underline{
+    margin-top: -1.5rem;
+    font-weight: bolder;
+    color: brown;
+    display: none;
+    width: 5%;
+}

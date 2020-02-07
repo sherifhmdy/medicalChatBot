@@ -1,0 +1,36 @@
+.welcome{
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+.btns a{
+    font-size: large;
+    font-family: 'Molle', cursive;
+    transition-duration: 0.5s;
+}
+
+
+.container {
+    opacity: 0;
+    animation-name: isVisible;
+    animation-delay: 0.3s;
+    animation-duration: 1s;
+    transition-property: visibility;
+    animation-timing-function: linear;
+    animation-fill-mode: forwards;
+}
+
+@keyframes isVisible{
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+
+.btn1{
+    background-color: rgb(202, 72, 94);
+}
+
+.btn2{
+    background-color: rgb(252, 243, 126);
+}
+
