@@ -131,4 +131,4 @@ def diseaseModel(symptoms):
 
 
 if __name__ == '__main__':
-    app.run(debug=False, port=6000)
+    app.run(debug=False, port=5000)
