@@ -37,7 +37,7 @@ const About = () => {
                             <div className="moreDetails">
                                 <p className="name">Maiada Mohsen</p>
                                 <p className="jobTitle">Vodafone Billing Engineer</p>
-                                <p className="id">181075</p>
+                                <p className="id">181065</p>
                             </div>
                         </li>
                         <li>
@@ -45,7 +45,7 @@ const About = () => {
                             <div className="moreDetails">
                                 <p className="name">Fady Adel</p>
                                 <p className="jobTitle">Vodafone Billing Engineer</p>
-                                <p className="id">181075</p>
+                                <p className="id">181119</p>
                             </div>
                         </li>
                         <li>

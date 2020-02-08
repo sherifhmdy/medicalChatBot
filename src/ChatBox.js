@@ -104,7 +104,7 @@ export default class ChatBox extends React.Component {
                                 body = body + this.state.symptoms[symptom] ;
                             }
                             body = body + '"}';
-                            Axios.post('/getSymptoms',body, {headers: {'Access-Control-Allow-Origin': '*','Content-Type':'application/json'
+                            Axios.post('/getSymptoms',body, {timeout:60000,headers: {'Access-Control-Allow-Origin': '*','Content-Type':'application/json'
                             }}).then((response) => {
                                 this.setState((prevState) =>{
                                     return {suggesstions: [...prevState.suggesstions, ...response.data.Symptoms]}
