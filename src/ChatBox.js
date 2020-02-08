@@ -104,8 +104,9 @@ export default class ChatBox extends React.Component {
                                 body = body + this.state.symptoms[symptom] ;
                             }
                             body = body + '"}';
-                            Axios.post('/getSymptoms',body, {timeout:60000,headers: {'Access-Control-Allow-Origin': '*','Content-Type':'application/json'
+                            Axios.post('https://sherifhmdy1989.pythonanywhere.com/getSymptoms',body, {timeout:60000,headers: {'Access-Control-Allow-Origin': '*','Content-Type':'application/json'
                             }}).then((response) => {
+                                console.log("Request sent and resp", response.data);
                                 this.setState((prevState) =>{
                                     return {suggesstions: [...prevState.suggesstions, ...response.data.Symptoms]}
                                 })
@@ -182,7 +183,7 @@ export default class ChatBox extends React.Component {
                 body = body + this.state.symptoms[symptom] ;
             }
             body = body + '"}';
-            Axios.post("/getDisease", body, {headers: {'Access-Control-Allow-Origin': '*','Content-Type':'application/json'
+            Axios.post("https://sherifhmdy1989.pythonanywhere.com/getDisease", body, {headers: {'Access-Control-Allow-Origin': '*','Content-Type':'application/json'
         }}).then((response) => {
             this.setState(() => {
                 return { disease: response.data.Disease, phase: 3 };

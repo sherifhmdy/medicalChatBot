@@ -9,11 +9,14 @@ from sklearn.model_selection import train_test_split
 from sklearn.tree import DecisionTreeClassifier, export_graphviz
 import pickle
 import heapq
+from flask_cors import CORS, cross_origin
 
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/', methods=['POST'])
+@cross_origin()
 def hello():
     # data1="{'mod1':'23','mod2':'123'}"
     data = request.get_json()
@@ -35,6 +38,7 @@ def hello():
 
 
 @app.route('/getSymptoms', methods=['POST'])
+@cross_origin()
 def getSymptoms():
     initSymptoms=request.get_json()
     print(initSymptoms)
@@ -45,6 +49,7 @@ def getSymptoms():
     return jsonify(result)
 
 @app.route('/getDisease', methods=['POST'])
+@cross_origin()
 def getDisease():
     initSymptoms=request.get_json()
     print(initSymptoms)
